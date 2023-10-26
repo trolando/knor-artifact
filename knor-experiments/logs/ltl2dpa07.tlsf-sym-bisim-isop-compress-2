@@ -1,0 +1,61 @@
+[1;37mfinished parsing automaton in 0.000187 sec.[m
+automaton has 7 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000764 sec.[m
+[1;37mfinished solving game in 0.000309 sec.[m
+after reachability: 6 states.
+[1;37mfinished post processing in 0.000111 sec.[m
+after bisimulation minimisation: 4 blocks.
+[1;37mfinished bisimulation minimisation in 0.000165 sec.[m
+isop has 5 terms and 8 nodes.
+isop has 4 terms and 9 nodes.
+isop has 2 terms and 5 nodes.
+isop has 2 terms and 5 nodes.
+[1;37mfinished encoding in 0.000375 sec.[m
+size of AIG before compression: 14 gates.
+after read_aiger knor.aRFlbx: 14
+after balance -l: 13
+after resub -K 6 -l: 8
+after rewrite -l: 8
+after resub -K 6 -N 2: 8
+after refactor -l: 7
+after resub -K 8 -l: 7
+after balance -l: 7
+after resub -K 8 -N 2 -l: 7
+after rewrite -l: 7
+after resub -K 10 -l: 7
+after rewrite -z -l: 7
+after resub -K 10 -N 2 -l: 7
+after balance -l: 7
+after resub -K 12 -l: 7
+after refactor -z -l: 7
+after resub -K 12 -N 2 -l: 7
+after balance -l: 7
+after rewrite -z -l: 7
+after balance -l: 7
+after dc2: 7
+after balance -l: 7
+after resub -K 6 -l: 7
+after rewrite -l: 7
+after resub -K 6 -N 2: 7
+after refactor -l: 7
+after resub -K 8 -l: 7
+after balance -l: 7
+after resub -K 8 -N 2 -l: 7
+after rewrite -l: 7
+after resub -K 10 -l: 7
+after rewrite -z -l: 7
+after resub -K 10 -N 2 -l: 7
+after balance -l: 7
+after resub -K 12 -l: 7
+after refactor -z -l: 7
+after resub -K 12 -N 2 -l: 7
+after balance -l: 7
+after rewrite -z -l: 7
+after balance -l: 7
+after dc2: 7
+after write_aiger -s knor.adZjCB: 7
+size of AIG after compression: 7 gates.
+[1;37mfinished compression in 0.023515 sec.[m
+final size of AIG: 7 gates.
+[1;37mtotal time was 0.027315 sec.[m

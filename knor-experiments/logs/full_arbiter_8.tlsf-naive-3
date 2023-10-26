@@ -1,0 +1,16 @@
+[1;37mfinished parsing automaton in 0.813357 sec.[m
+automaton has 5642 states.
+priorities are on transitions
+[1;37mfinished constructing game in 24.454801 sec.[m
+constructed game has 11287306 vertices and 21118976 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.123862 sec.
+solving took 0.610863 sec.
+[1;37mfinished solving game in 2.139165 sec.[m
+REALIZABLE
+[1;37mtotal time was 28.426579 sec.[m

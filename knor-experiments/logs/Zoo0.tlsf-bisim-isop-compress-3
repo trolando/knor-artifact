@@ -1,0 +1,56 @@
+[1;37mfinished parsing automaton in 0.004845 sec.[m
+automaton has 19 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001189 sec.[m
+constructed game has 59 vertices and 152 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.000012 sec.
+solving took 0.000042 sec.
+[1;37mfinished solving game in 0.000113 sec.[m
+after reachability: 3 states.
+[1;37mfinished post processing in 0.000185 sec.[m
+after bisimulation minimisation: 2 blocks.
+[1;37mfinished bisimulation minimisation in 0.000251 sec.[m
+isop has 0 terms and 1 nodes.
+isop has 0 terms and 1 nodes.
+isop has 1 terms and 1 nodes.
+isop has 0 terms and 1 nodes.
+isop has 2 terms and 4 nodes.
+isop has 2 terms and 4 nodes.
+isop has 0 terms and 1 nodes.
+isop has 0 terms and 1 nodes.
+isop has 1 terms and 1 nodes.
+isop has 1 terms and 1 nodes.
+[1;37mfinished encoding in 0.000632 sec.[m
+size of AIG before compression: 2 gates.
+after read_aiger knor.pFQ9e5: 2
+after balance -l: 2
+after resub -K 6 -l: 2
+after rewrite -l: 2
+after resub -K 6 -N 2: 2
+after refactor -l: 2
+after resub -K 8 -l: 2
+after balance -l: 2
+after resub -K 8 -N 2 -l: 2
+after rewrite -l: 2
+after resub -K 10 -l: 2
+after rewrite -z -l: 2
+after resub -K 10 -N 2 -l: 2
+after balance -l: 2
+after resub -K 12 -l: 2
+after refactor -z -l: 2
+after resub -K 12 -N 2 -l: 2
+after balance -l: 2
+after rewrite -z -l: 2
+after balance -l: 2
+after dc2: 2
+after write_aiger -s knor.gBvNpF: 2
+size of AIG after compression: 2 gates.
+[1;37mfinished compression in 0.019626 sec.[m
+final size of AIG: 2 gates.
+[1;37mtotal time was 0.029149 sec.[m

@@ -1,0 +1,77 @@
+[1;37mfinished parsing automaton in 0.000254 sec.[m
+automaton has 19 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000913 sec.[m
+[1;37mfinished solving game in 0.001417 sec.[m
+after reachability: 12 states.
+[1;37mfinished post processing in 0.000193 sec.[m
+after bisimulation minimisation: 12 blocks.
+[1;37mfinished bisimulation minimisation in 0.000361 sec.[m
+[1;37mfinished encoding in 0.000626 sec.[m
+size of AIG before compression: 62 gates.
+after read_aiger knor.0d7Xpm: 62
+after balance -l: 61
+after resub -K 6 -l: 56
+after rewrite -l: 56
+after resub -K 6 -N 2: 56
+after refactor -l: 56
+after resub -K 8 -l: 56
+after balance -l: 56
+after resub -K 8 -N 2 -l: 56
+after rewrite -l: 56
+after resub -K 10 -l: 56
+after rewrite -z -l: 54
+after resub -K 10 -N 2 -l: 53
+after balance -l: 53
+after resub -K 12 -l: 53
+after refactor -z -l: 53
+after resub -K 12 -N 2 -l: 52
+after balance -l: 52
+after rewrite -z -l: 52
+after balance -l: 52
+after dc2: 52
+after balance -l: 52
+after resub -K 6 -l: 51
+after rewrite -l: 51
+after resub -K 6 -N 2: 51
+after refactor -l: 51
+after resub -K 8 -l: 51
+after balance -l: 51
+after resub -K 8 -N 2 -l: 51
+after rewrite -l: 51
+after resub -K 10 -l: 51
+after rewrite -z -l: 51
+after resub -K 10 -N 2 -l: 51
+after balance -l: 51
+after resub -K 12 -l: 51
+after refactor -z -l: 51
+after resub -K 12 -N 2 -l: 51
+after balance -l: 51
+after rewrite -z -l: 51
+after balance -l: 51
+after dc2: 51
+after balance -l: 51
+after resub -K 6 -l: 51
+after rewrite -l: 51
+after resub -K 6 -N 2: 51
+after refactor -l: 51
+after resub -K 8 -l: 51
+after balance -l: 51
+after resub -K 8 -N 2 -l: 51
+after rewrite -l: 51
+after resub -K 10 -l: 51
+after rewrite -z -l: 51
+after resub -K 10 -N 2 -l: 51
+after balance -l: 51
+after resub -K 12 -l: 51
+after refactor -z -l: 51
+after resub -K 12 -N 2 -l: 51
+after balance -l: 51
+after rewrite -z -l: 51
+after balance -l: 51
+after dc2: 51
+after write_aiger -s knor.d0R8BR: 51
+size of AIG after compression: 51 gates.
+[1;37mfinished compression in 0.032411 sec.[m
+final size of AIG: 51 gates.
+[1;37mtotal time was 0.038140 sec.[m

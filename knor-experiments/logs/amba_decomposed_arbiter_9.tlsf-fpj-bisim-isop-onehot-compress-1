@@ -1,0 +1,139 @@
+[1;37mfinished parsing automaton in 0.041681 sec.[m
+automaton has 149 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.248730 sec.[m
+constructed game has 38567 vertices and 542587 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 10 iterations.
+preprocessing took 0.001097 sec.
+solving took 0.002490 sec.
+[1;37mfinished solving game in 0.006136 sec.[m
+after reachability: 147 states.
+[1;37mfinished post processing in 0.017883 sec.[m
+after bisimulation minimisation: 122 blocks.
+[1;37mfinished bisimulation minimisation in 0.004977 sec.[m
+[1;37mfinished encoding in 0.029525 sec.[m
+size of AIG before compression: 6571 gates.
+after read_aiger knor.RQZ1vA: 6571
+after balance -l: 5583
+after resub -K 6 -l: 5336
+after rewrite -l: 5213
+after resub -K 6 -N 2: 5159
+after refactor -l: 5032
+after resub -K 8 -l: 4929
+after balance -l: 4910
+after resub -K 8 -N 2 -l: 4816
+after rewrite -l: 4786
+after resub -K 10 -l: 4768
+after rewrite -z -l: 4695
+after resub -K 10 -N 2 -l: 4604
+after balance -l: 4602
+after resub -K 12 -l: 4559
+after refactor -z -l: 4377
+after resub -K 12 -N 2 -l: 4210
+after balance -l: 4203
+after rewrite -z -l: 4138
+after balance -l: 4134
+after dc2: 3902
+after balance -l: 3895
+after resub -K 6 -l: 3859
+after rewrite -l: 3846
+after resub -K 6 -N 2: 3836
+after refactor -l: 3825
+after resub -K 8 -l: 3801
+after balance -l: 3799
+after resub -K 8 -N 2 -l: 3766
+after rewrite -l: 3758
+after resub -K 10 -l: 3746
+after rewrite -z -l: 3732
+after resub -K 10 -N 2 -l: 3695
+after balance -l: 3693
+after resub -K 12 -l: 3682
+after refactor -z -l: 3639
+after resub -K 12 -N 2 -l: 3585
+after balance -l: 3579
+after rewrite -z -l: 3558
+after balance -l: 3557
+after dc2: 3481
+after balance -l: 3480
+after resub -K 6 -l: 3467
+after rewrite -l: 3459
+after resub -K 6 -N 2: 3456
+after refactor -l: 3452
+after resub -K 8 -l: 3445
+after balance -l: 3445
+after resub -K 8 -N 2 -l: 3427
+after rewrite -l: 3426
+after resub -K 10 -l: 3424
+after rewrite -z -l: 3418
+after resub -K 10 -N 2 -l: 3387
+after balance -l: 3387
+after resub -K 12 -l: 3382
+after refactor -z -l: 3377
+after resub -K 12 -N 2 -l: 3358
+after balance -l: 3356
+after rewrite -z -l: 3347
+after balance -l: 3347
+after dc2: 3315
+after balance -l: 3312
+after resub -K 6 -l: 3299
+after rewrite -l: 3298
+after resub -K 6 -N 2: 3295
+after refactor -l: 3289
+after resub -K 8 -l: 3286
+after balance -l: 3286
+after resub -K 8 -N 2 -l: 3279
+after rewrite -l: 3276
+after resub -K 10 -l: 3273
+after rewrite -z -l: 3269
+after resub -K 10 -N 2 -l: 3257
+after balance -l: 3257
+after resub -K 12 -l: 3254
+after refactor -z -l: 3248
+after resub -K 12 -N 2 -l: 3235
+after balance -l: 3234
+after rewrite -z -l: 3231
+after balance -l: 3231
+after dc2: 3197
+after balance -l: 3195
+after resub -K 6 -l: 3190
+after rewrite -l: 3186
+after resub -K 6 -N 2: 3185
+after refactor -l: 3183
+after resub -K 8 -l: 3178
+after balance -l: 3177
+after resub -K 8 -N 2 -l: 3170
+after rewrite -l: 3170
+after resub -K 10 -l: 3170
+after rewrite -z -l: 3167
+after resub -K 10 -N 2 -l: 3160
+after balance -l: 3159
+after resub -K 12 -l: 3153
+after refactor -z -l: 3149
+after resub -K 12 -N 2 -l: 3140
+after balance -l: 3140
+after rewrite -z -l: 3139
+after balance -l: 3139
+after dc2: 3126
+after write_aiger -s knor.jqWkfu: 3126
+size of AIG after compression: 3126 gates.
+[1;37mfinished compression in 2.473129 sec.[m
+final size of AIG: 3126 gates.
+[1;37mtotal time was 3.205859 sec.[m

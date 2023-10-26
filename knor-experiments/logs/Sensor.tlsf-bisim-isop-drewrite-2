@@ -1,0 +1,76 @@
+[1;37mfinished parsing automaton in 0.013947 sec.[m
+automaton has 123 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.007760 sec.[m
+constructed game has 521 vertices and 1948 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 70 tangles.
+solved in 4 iterations.
+preprocessing took 0.000024 sec.
+solving took 0.000119 sec.
+[1;37mfinished solving game in 0.000195 sec.[m
+after reachability: 21 states.
+[1;37mfinished post processing in 0.000251 sec.[m
+after bisimulation minimisation: 15 blocks.
+[1;37mfinished bisimulation minimisation in 0.000304 sec.[m
+starting garbage collection...
+garbage collection finished.
+isop has 13 terms and 29 nodes.
+isop has 0 terms and 1 nodes.
+isop has 16 terms and 22 nodes.
+isop has 10 terms and 26 nodes.
+isop has 1 terms and 5 nodes.
+isop has 10 terms and 23 nodes.
+isop has 19 terms and 44 nodes.
+isop has 18 terms and 42 nodes.
+isop has 21 terms and 54 nodes.
+isop has 19 terms and 52 nodes.
+[1;37mfinished encoding in 0.000648 sec.[m
+size of AIG before drw+drf: 284 gates.
+after read_aiger knor.aU2aeM: 284
+after drw: 251
+after balance: 247
+after drf: 247
+after dc2: 227
+after drw: 227
+after balance: 226
+after drf: 225
+after dc2: 219
+after drw: 218
+after balance: 218
+after drf: 218
+after dc2: 217
+after drw: 217
+after balance: 217
+after drf: 217
+after dc2: 215
+after drw: 214
+after balance: 214
+after drf: 214
+after dc2: 213
+after drw: 213
+after balance: 213
+after drf: 212
+after dc2: 208
+after drw: 208
+after balance: 208
+after drf: 208
+after dc2: 205
+after drw: 201
+after balance: 201
+after drf: 201
+after dc2: 201
+after drw: 201
+after balance: 201
+after drf: 201
+after dc2: 201
+after write_aiger -s knor.QVgY21: 201
+size of AIG after drw+drf: 201 gates.
+[1;37mfinished drw+drf in 0.058339 sec.[m
+final size of AIG: 201 gates.
+[1;37mtotal time was 0.084205 sec.[m

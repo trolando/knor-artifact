@@ -1,0 +1,38 @@
+[1;37mfinished parsing automaton in 0.010103 sec.[m
+automaton has 45 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.019401 sec.[m
+constructed game has 1139 vertices and 7695 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 3 dominions and 20 tangles.
+solved in 3 iterations.
+preprocessing took 0.000065 sec.
+solving took 0.000180 sec.
+[1;37mfinished solving game in 0.000368 sec.[m
+after reachability: 43 states.
+[1;37mfinished post processing in 0.000620 sec.[m
+isop has 42 terms and 123 nodes.
+isop has 7 terms and 25 nodes.
+isop has 44 terms and 109 nodes.
+isop has 36 terms and 121 nodes.
+isop has 31 terms and 106 nodes.
+isop has 83 terms and 200 nodes.
+isop has 74 terms and 217 nodes.
+isop has 81 terms and 197 nodes.
+starting garbage collection...
+garbage collection finished.
+isop has 123 terms and 288 nodes.
+isop has 127 terms and 275 nodes.
+isop has 103 terms and 254 nodes.
+isop has 155 terms and 350 nodes.
+isop has 128 terms and 292 nodes.
+[1;37mfinished encoding in 0.003977 sec.[m
+final size of AIG: 2520 gates.
+[1;37mtotal time was 0.039610 sec.[m

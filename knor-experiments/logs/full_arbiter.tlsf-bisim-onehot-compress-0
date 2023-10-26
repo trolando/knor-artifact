@@ -1,0 +1,66 @@
+[1;37mfinished parsing automaton in 0.000951 sec.[m
+automaton has 55 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001911 sec.[m
+constructed game has 228 vertices and 534 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 3 dominions and 0 tangles.
+solved in 3 iterations.
+preprocessing took 0.000078 sec.
+solving took 0.000186 sec.
+[1;37mfinished solving game in 0.000418 sec.[m
+after reachability: 28 states.
+[1;37mfinished post processing in 0.000385 sec.[m
+after bisimulation minimisation: 27 blocks.
+[1;37mfinished bisimulation minimisation in 0.000741 sec.[m
+[1;37mfinished encoding in 0.001391 sec.[m
+size of AIG before compression: 129 gates.
+after read_aiger knor.jOsBiG: 129
+after balance -l: 129
+after resub -K 6 -l: 123
+after rewrite -l: 122
+after resub -K 6 -N 2: 122
+after refactor -l: 122
+after resub -K 8 -l: 122
+after balance -l: 122
+after resub -K 8 -N 2 -l: 121
+after rewrite -l: 121
+after resub -K 10 -l: 121
+after rewrite -z -l: 121
+after resub -K 10 -N 2 -l: 120
+after balance -l: 120
+after resub -K 12 -l: 120
+after refactor -z -l: 119
+after resub -K 12 -N 2 -l: 119
+after balance -l: 118
+after rewrite -z -l: 117
+after balance -l: 117
+after dc2: 116
+after balance -l: 116
+after resub -K 6 -l: 116
+after rewrite -l: 116
+after resub -K 6 -N 2: 116
+after refactor -l: 116
+after resub -K 8 -l: 116
+after balance -l: 116
+after resub -K 8 -N 2 -l: 116
+after rewrite -l: 116
+after resub -K 10 -l: 116
+after rewrite -z -l: 116
+after resub -K 10 -N 2 -l: 116
+after balance -l: 116
+after resub -K 12 -l: 116
+after refactor -z -l: 116
+after resub -K 12 -N 2 -l: 116
+after balance -l: 116
+after rewrite -z -l: 116
+after balance -l: 116
+after dc2: 116
+after write_aiger -s knor.eF7Ksr: 116
+size of AIG after compression: 116 gates.
+[1;37mfinished compression in 0.032372 sec.[m
+final size of AIG: 116 gates.
+[1;37mtotal time was 0.040541 sec.[m

@@ -1,0 +1,22 @@
+[1;37mfinished parsing automaton in 0.000105 sec.[m
+automaton has 2 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000699 sec.[m
+constructed game has 8 vertices and 13 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel Zielonka
+running sequentially
+no losing region
+no losing region
+no nodes are attracted to losing region
+solved with 3 iterations.
+preprocessing took 0.000045 sec.
+solving took 0.000122 sec.
+[1;37mfinished solving game in 0.000258 sec.[m
+after reachability: 1 states.
+[1;37mfinished post processing in 0.000089 sec.[m
+[1;37mfinished encoding in 0.000120 sec.[m
+final size of AIG: 11 gates.
+[1;37mtotal time was 0.002921 sec.[m

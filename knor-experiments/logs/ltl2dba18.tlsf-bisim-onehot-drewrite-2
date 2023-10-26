@@ -1,0 +1,38 @@
+[1;37mfinished parsing automaton in 0.000252 sec.[m
+automaton has 11 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000969 sec.[m
+constructed game has 45 vertices and 88 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 1 dominions and 3 tangles.
+solved in 3 iterations.
+preprocessing took 0.000050 sec.
+solving took 0.000140 sec.
+[1;37mfinished solving game in 0.000295 sec.[m
+after reachability: 6 states.
+[1;37mfinished post processing in 0.000133 sec.[m
+after bisimulation minimisation: 4 blocks.
+[1;37mfinished bisimulation minimisation in 0.000257 sec.[m
+[1;37mfinished encoding in 0.000308 sec.[m
+size of AIG before drw+drf: 42 gates.
+after read_aiger knor.FsAEbI: 42
+after drw: 34
+after balance: 33
+after drf: 31
+after dc2: 29
+after drw: 28
+after balance: 28
+after drf: 28
+after dc2: 28
+after drw: 28
+after balance: 28
+after drf: 28
+after dc2: 28
+after write_aiger -s knor.yMiLQv: 28
+size of AIG after drw+drf: 28 gates.
+[1;37mfinished drw+drf in 0.014288 sec.[m
+final size of AIG: 28 gates.
+[1;37mtotal time was 0.018524 sec.[m

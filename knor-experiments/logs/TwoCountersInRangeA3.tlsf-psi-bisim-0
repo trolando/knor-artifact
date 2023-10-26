@@ -1,0 +1,17 @@
+[1;37mfinished parsing automaton in 0.005506 sec.[m
+automaton has 10 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.007393 sec.[m
+constructed game has 58 vertices and 377 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 4 major iterations, 5 minor iterations.
+preprocessing took 0.000013 sec.
+solving took 0.000087 sec.
+[1;37mfinished solving game in 0.000127 sec.[m
+[1;37mtotal time was 0.013582 sec.[m

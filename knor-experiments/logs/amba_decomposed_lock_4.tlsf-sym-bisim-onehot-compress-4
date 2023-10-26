@@ -1,0 +1,77 @@
+[1;37mfinished parsing automaton in 0.000284 sec.[m
+automaton has 6 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001368 sec.[m
+[1;37mfinished solving game in 0.000766 sec.[m
+after reachability: 5 states.
+[1;37mfinished post processing in 0.000192 sec.[m
+after bisimulation minimisation: 4 blocks.
+[1;37mfinished bisimulation minimisation in 0.000228 sec.[m
+[1;37mfinished encoding in 0.000339 sec.[m
+size of AIG before compression: 116 gates.
+after read_aiger knor.Io2ILv: 116
+after balance -l: 99
+after resub -K 6 -l: 69
+after rewrite -l: 63
+after resub -K 6 -N 2: 57
+after refactor -l: 57
+after resub -K 8 -l: 50
+after balance -l: 50
+after resub -K 8 -N 2 -l: 41
+after rewrite -l: 39
+after resub -K 10 -l: 36
+after rewrite -z -l: 34
+after resub -K 10 -N 2 -l: 34
+after balance -l: 34
+after resub -K 12 -l: 34
+after refactor -z -l: 34
+after resub -K 12 -N 2 -l: 34
+after balance -l: 34
+after rewrite -z -l: 34
+after balance -l: 34
+after dc2: 34
+after balance -l: 34
+after resub -K 6 -l: 34
+after rewrite -l: 34
+after resub -K 6 -N 2: 34
+after refactor -l: 34
+after resub -K 8 -l: 34
+after balance -l: 34
+after resub -K 8 -N 2 -l: 33
+after rewrite -l: 33
+after resub -K 10 -l: 33
+after rewrite -z -l: 33
+after resub -K 10 -N 2 -l: 33
+after balance -l: 33
+after resub -K 12 -l: 33
+after refactor -z -l: 33
+after resub -K 12 -N 2 -l: 33
+after balance -l: 33
+after rewrite -z -l: 33
+after balance -l: 33
+after dc2: 33
+after balance -l: 33
+after resub -K 6 -l: 33
+after rewrite -l: 33
+after resub -K 6 -N 2: 33
+after refactor -l: 33
+after resub -K 8 -l: 33
+after balance -l: 33
+after resub -K 8 -N 2 -l: 33
+after rewrite -l: 33
+after resub -K 10 -l: 33
+after rewrite -z -l: 33
+after resub -K 10 -N 2 -l: 33
+after balance -l: 33
+after resub -K 12 -l: 33
+after refactor -z -l: 33
+after resub -K 12 -N 2 -l: 33
+after balance -l: 33
+after rewrite -z -l: 33
+after balance -l: 33
+after dc2: 33
+after write_aiger -s knor.D1R4IK: 33
+size of AIG after compression: 33 gates.
+[1;37mfinished compression in 0.042037 sec.[m
+final size of AIG: 33 gates.
+[1;37mtotal time was 0.047114 sec.[m

@@ -1,0 +1,64 @@
+[1;37mfinished parsing automaton in 0.009091 sec.[m
+automaton has 65 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.019510 sec.[m
+constructed game has 2733 vertices and 23697 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 6 major iterations, 11 minor iterations.
+preprocessing took 0.000083 sec.
+solving took 0.000849 sec.
+[1;37mfinished solving game in 0.001097 sec.[m
+after reachability: 63 states.
+[1;37mfinished post processing in 0.001174 sec.[m
+after bisimulation minimisation: 52 blocks.
+[1;37mfinished bisimulation minimisation in 0.000822 sec.[m
+isop has 62 terms and 145 nodes.
+isop has 6 terms and 33 nodes.
+isop has 23 terms and 90 nodes.
+isop has 15 terms and 61 nodes.
+isop has 29 terms and 94 nodes.
+isop has 37 terms and 115 nodes.
+isop has 94 terms and 234 nodes.
+isop has 44 terms and 56 nodes.
+isop has 131 terms and 354 nodes.
+isop has 137 terms and 356 nodes.
+isop has 181 terms and 449 nodes.
+isop has 247 terms and 630 nodes.
+isop has 241 terms and 591 nodes.
+isop has 222 terms and 584 nodes.
+[1;37mfinished encoding in 0.005677 sec.[m
+size of AIG before drw+drf: 3861 gates.
+after read_aiger knor.b87h8w: 3861
+after drw: 3241
+after balance: 3196
+after drf: 3180
+after dc2: 3031
+after drw: 3006
+after balance: 3005
+after drf: 2999
+after dc2: 2965
+after drw: 2960
+after balance: 2960
+after drf: 2957
+after dc2: 2935
+after drw: 2932
+after balance: 2932
+after drf: 2932
+after dc2: 2917
+after write_aiger -s knor.F97RFw: 2917
+size of AIG after drw+drf: 2917 gates.
+[1;37mfinished drw+drf in 0.353676 sec.[m
+final size of AIG: 2917 gates.
+[1;37mtotal time was 0.403624 sec.[m

@@ -1,0 +1,51 @@
+[1;37mfinished parsing automaton in 0.749884 sec.[m
+automaton has 14350 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 1.138674 sec.[m
+constructed game has 49147 vertices and 377225 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 4 dominions and 0 tangles.
+solved in 4 iterations.
+preprocessing took 0.001430 sec.
+solving took 0.005433 sec.
+[1;37mfinished solving game in 0.011045 sec.[m
+after reachability: 796 states.
+[1;37mfinished post processing in 0.023426 sec.[m
+after bisimulation minimisation: 564 blocks.
+[1;37mfinished bisimulation minimisation in 0.012905 sec.[m
+isop has 247 terms and 703 nodes.
+isop has 274 terms and 751 nodes.
+isop has 429 terms and 1047 nodes.
+isop has 403 terms and 940 nodes.
+isop has 609 terms and 1404 nodes.
+isop has 1025 terms and 2038 nodes.
+isop has 927 terms and 1900 nodes.
+isop has 786 terms and 1696 nodes.
+isop has 1020 terms and 2033 nodes.
+isop has 1167 terms and 2216 nodes.
+isop has 1118 terms and 2161 nodes.
+isop has 1034 terms and 2031 nodes.
+isop has 1252 terms and 2377 nodes.
+isop has 1137 terms and 2187 nodes.
+[1;37mfinished encoding in 0.069655 sec.[m
+final size of AIG: 23525 gates.
+[1;37mtotal time was 2.093058 sec.[m

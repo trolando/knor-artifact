@@ -1,0 +1,59 @@
+[1;37mfinished parsing automaton in 0.009958 sec.[m
+automaton has 91 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.014736 sec.[m
+constructed game has 345 vertices and 749 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 37 iterations.
+preprocessing took 0.000018 sec.
+solving took 0.000047 sec.
+[1;37mfinished solving game in 0.000106 sec.[m
+after reachability: 49 states.
+[1;37mfinished post processing in 0.000406 sec.[m
+after bisimulation minimisation: 49 blocks.
+[1;37mfinished bisimulation minimisation in 0.000658 sec.[m
+isop has 7 terms and 20 nodes.
+isop has 11 terms and 24 nodes.
+isop has 4 terms and 17 nodes.
+isop has 1 terms and 5 nodes.
+isop has 2 terms and 9 nodes.
+isop has 2 terms and 7 nodes.
+isop has 2 terms and 11 nodes.
+isop has 2 terms and 9 nodes.
+isop has 2 terms and 13 nodes.
+isop has 4 terms and 17 nodes.
+isop has 3 terms and 10 nodes.
+isop has 3 terms and 10 nodes.
+isop has 2 terms and 10 nodes.
+isop has 2 terms and 10 nodes.
+isop has 2 terms and 12 nodes.
+isop has 2 terms and 9 nodes.
+isop has 2 terms and 9 nodes.
+isop has 2 terms and 10 nodes.
+isop has 2 terms and 10 nodes.
+isop has 3 terms and 12 nodes.
+isop has 15 terms and 39 nodes.
+isop has 12 terms and 34 nodes.
+isop has 10 terms and 32 nodes.
+isop has 0 terms and 1 nodes.
+isop has 3 terms and 7 nodes.
+isop has 10 terms and 19 nodes.
+isop has 2 terms and 13 nodes.
+isop has 9 terms and 26 nodes.
+isop has 5 terms and 16 nodes.
+isop has 11 terms and 37 nodes.
+isop has 15 terms and 43 nodes.
+isop has 17 terms and 41 nodes.
+isop has 11 terms and 34 nodes.
+[1;37mfinished encoding in 0.001209 sec.[m
+final size of AIG: 357 gates.
+[1;37mtotal time was 0.029843 sec.[m

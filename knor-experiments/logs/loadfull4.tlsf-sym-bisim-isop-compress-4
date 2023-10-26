@@ -1,0 +1,85 @@
+[1;37mfinished parsing automaton in 0.001621 sec.[m
+automaton has 21 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.002341 sec.[m
+[1;37mfinished solving game in 0.001263 sec.[m
+after reachability: 14 states.
+[1;37mfinished post processing in 0.000476 sec.[m
+after bisimulation minimisation: 10 blocks.
+[1;37mfinished bisimulation minimisation in 0.000540 sec.[m
+isop has 2 terms and 10 nodes.
+isop has 1 terms and 6 nodes.
+isop has 1 terms and 6 nodes.
+isop has 2 terms and 9 nodes.
+isop has 11 terms and 34 nodes.
+isop has 17 terms and 40 nodes.
+isop has 16 terms and 39 nodes.
+isop has 16 terms and 39 nodes.
+[1;37mfinished encoding in 0.001342 sec.[m
+size of AIG before compression: 178 gates.
+after read_aiger knor.mEjl4O: 178
+after balance -l: 160
+after resub -K 6 -l: 150
+after rewrite -l: 145
+after resub -K 6 -N 2: 143
+after refactor -l: 143
+after resub -K 8 -l: 142
+after balance -l: 142
+after resub -K 8 -N 2 -l: 137
+after rewrite -l: 137
+after resub -K 10 -l: 137
+after rewrite -z -l: 137
+after resub -K 10 -N 2 -l: 135
+after balance -l: 135
+after resub -K 12 -l: 135
+after refactor -z -l: 135
+after resub -K 12 -N 2 -l: 130
+after balance -l: 130
+after rewrite -z -l: 130
+after balance -l: 130
+after dc2: 129
+after balance -l: 129
+after resub -K 6 -l: 129
+after rewrite -l: 129
+after resub -K 6 -N 2: 129
+after refactor -l: 129
+after resub -K 8 -l: 129
+after balance -l: 129
+after resub -K 8 -N 2 -l: 129
+after rewrite -l: 129
+after resub -K 10 -l: 129
+after rewrite -z -l: 129
+after resub -K 10 -N 2 -l: 127
+after balance -l: 127
+after resub -K 12 -l: 127
+after refactor -z -l: 126
+after resub -K 12 -N 2 -l: 126
+after balance -l: 126
+after rewrite -z -l: 126
+after balance -l: 126
+after dc2: 125
+after balance -l: 125
+after resub -K 6 -l: 125
+after rewrite -l: 125
+after resub -K 6 -N 2: 124
+after refactor -l: 124
+after resub -K 8 -l: 123
+after balance -l: 123
+after resub -K 8 -N 2 -l: 123
+after rewrite -l: 123
+after resub -K 10 -l: 123
+after rewrite -z -l: 123
+after resub -K 10 -N 2 -l: 123
+after balance -l: 123
+after resub -K 12 -l: 123
+after refactor -z -l: 123
+after resub -K 12 -N 2 -l: 123
+after balance -l: 123
+after rewrite -z -l: 123
+after balance -l: 123
+after dc2: 123
+after write_aiger -s knor.asMaW5: 123
+size of AIG after compression: 123 gates.
+[1;37mfinished compression in 0.068474 sec.[m
+final size of AIG: 123 gates.
+[1;37mtotal time was 0.078290 sec.[m

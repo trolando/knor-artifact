@@ -1,0 +1,88 @@
+[1;37mfinished parsing automaton in 0.042651 sec.[m
+automaton has 872 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.062194 sec.[m
+constructed game has 12939 vertices and 70411 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 4 major iterations, 10 minor iterations.
+preprocessing took 0.000302 sec.
+solving took 0.003047 sec.
+[1;37mfinished solving game in 0.003987 sec.[m
+after reachability: 319 states.
+[1;37mfinished post processing in 0.003427 sec.[m
+after bisimulation minimisation: 159 blocks.
+[1;37mfinished bisimulation minimisation in 0.003288 sec.[m
+[1;37mfinished encoding in 0.010576 sec.[m
+size of AIG before drw+drf: 4269 gates.
+after read_aiger knor.stMWoO: 4269
+after drw: 4219
+after balance: 4205
+after drf: 4205
+after dc2: 4047
+after drw: 4033
+after balance: 4031
+after drf: 3982
+after dc2: 3836
+after drw: 3818
+after balance: 3815
+after drf: 3764
+after dc2: 3633
+after drw: 3613
+after balance: 3609
+after drf: 3566
+after dc2: 3464
+after drw: 3451
+after balance: 3450
+after drf: 3416
+after dc2: 3307
+after drw: 3293
+after balance: 3292
+after drf: 3265
+after dc2: 3169
+after drw: 3152
+after balance: 3151
+after drf: 3110
+after dc2: 3046
+after drw: 3040
+after balance: 3040
+after drf: 3024
+after dc2: 2966
+after drw: 2950
+after balance: 2950
+after drf: 2943
+after dc2: 2903
+after drw: 2901
+after balance: 2900
+after drf: 2888
+after dc2: 2868
+after drw: 2868
+after balance: 2867
+after drf: 2863
+after dc2: 2840
+after drw: 2836
+after balance: 2836
+after drf: 2827
+after dc2: 2811
+after drw: 2808
+after balance: 2808
+after drf: 2801
+after dc2: 2785
+after write_aiger -s knor.Cu0wSU: 2785
+size of AIG after drw+drf: 2785 gates.
+[1;37mfinished drw+drf in 0.979331 sec.[m
+final size of AIG: 2785 gates.
+[1;37mtotal time was 1.134169 sec.[m

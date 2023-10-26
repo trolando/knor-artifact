@@ -1,0 +1,19 @@
+[1;37mfinished parsing automaton in 0.000213 sec.[m
+automaton has 15 states.
+priorities are on states
+[1;37mfinished constructing game in 0.000951 sec.[m
+constructed game has 51 vertices and 104 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel Zielonka
+running sequentially
+no losing region
+no losing region
+35 nodes are attracted to losing region
+no losing region
+solved with 4 iterations.
+preprocessing took 0.000054 sec.
+solving took 0.000168 sec.
+[1;37mfinished solving game in 0.000328 sec.[m
+[1;37mtotal time was 0.003359 sec.[m

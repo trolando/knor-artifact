@@ -1,0 +1,74 @@
+[1;37mfinished parsing automaton in 0.001213 sec.[m
+automaton has 41 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.002371 sec.[m
+constructed game has 271 vertices and 870 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.000079 sec.
+solving took 0.000186 sec.
+[1;37mfinished solving game in 0.000433 sec.[m
+after reachability: 31 states.
+[1;37mfinished post processing in 0.000504 sec.[m
+after bisimulation minimisation: 21 blocks.
+[1;37mfinished bisimulation minimisation in 0.000863 sec.[m
+isop has 16 terms and 45 nodes.
+isop has 9 terms and 32 nodes.
+isop has 13 terms and 37 nodes.
+isop has 26 terms and 64 nodes.
+isop has 18 terms and 56 nodes.
+isop has 23 terms and 63 nodes.
+isop has 37 terms and 80 nodes.
+isop has 28 terms and 65 nodes.
+[1;37mfinished encoding in 0.001962 sec.[m
+size of AIG before compression: 421 gates.
+after read_aiger knor.tEQwuW: 421
+after balance -l: 383
+after resub -K 6 -l: 358
+after rewrite -l: 351
+after resub -K 6 -N 2: 336
+after refactor -l: 336
+after resub -K 8 -l: 335
+after balance -l: 335
+after resub -K 8 -N 2 -l: 334
+after rewrite -l: 333
+after resub -K 10 -l: 333
+after rewrite -z -l: 332
+after resub -K 10 -N 2 -l: 329
+after balance -l: 329
+after resub -K 12 -l: 329
+after refactor -z -l: 329
+after resub -K 12 -N 2 -l: 326
+after balance -l: 326
+after rewrite -z -l: 326
+after balance -l: 325
+after dc2: 319
+after balance -l: 318
+after resub -K 6 -l: 317
+after rewrite -l: 317
+after resub -K 6 -N 2: 315
+after refactor -l: 315
+after resub -K 8 -l: 315
+after balance -l: 315
+after resub -K 8 -N 2 -l: 315
+after rewrite -l: 315
+after resub -K 10 -l: 315
+after rewrite -z -l: 315
+after resub -K 10 -N 2 -l: 314
+after balance -l: 314
+after resub -K 12 -l: 314
+after refactor -z -l: 314
+after resub -K 12 -N 2 -l: 314
+after balance -l: 314
+after rewrite -z -l: 314
+after balance -l: 314
+after dc2: 314
+after write_aiger -s knor.POy1Oe: 314
+size of AIG after compression: 314 gates.
+[1;37mfinished compression in 0.134670 sec.[m
+final size of AIG: 314 gates.
+[1;37mtotal time was 0.145169 sec.[m

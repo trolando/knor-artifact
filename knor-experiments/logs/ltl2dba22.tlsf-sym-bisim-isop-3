@@ -1,0 +1,14 @@
+[1;37mfinished parsing automaton in 0.000105 sec.[m
+automaton has 3 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000756 sec.[m
+[1;37mfinished solving game in 0.000417 sec.[m
+after reachability: 2 states.
+[1;37mfinished post processing in 0.000138 sec.[m
+after bisimulation minimisation: 2 blocks.
+[1;37mfinished bisimulation minimisation in 0.000238 sec.[m
+isop has 1 terms and 3 nodes.
+isop has 2 terms and 3 nodes.
+[1;37mfinished encoding in 0.000196 sec.[m
+final size of AIG: 1 gates.
+[1;37mtotal time was 0.003756 sec.[m

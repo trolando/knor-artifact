@@ -1,0 +1,77 @@
+[1;37mfinished parsing automaton in 0.000437 sec.[m
+automaton has 22 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000924 sec.[m
+[1;37mfinished solving game in 0.002193 sec.[m
+after reachability: 12 states.
+[1;37mfinished post processing in 0.000230 sec.[m
+after bisimulation minimisation: 12 blocks.
+[1;37mfinished bisimulation minimisation in 0.000475 sec.[m
+[1;37mfinished encoding in 0.000784 sec.[m
+size of AIG before compression: 85 gates.
+after read_aiger knor.uqdOpw: 85
+after balance -l: 85
+after resub -K 6 -l: 85
+after rewrite -l: 83
+after resub -K 6 -N 2: 83
+after refactor -l: 80
+after resub -K 8 -l: 79
+after balance -l: 79
+after resub -K 8 -N 2 -l: 79
+after rewrite -l: 79
+after resub -K 10 -l: 79
+after rewrite -z -l: 79
+after resub -K 10 -N 2 -l: 78
+after balance -l: 78
+after resub -K 12 -l: 78
+after refactor -z -l: 75
+after resub -K 12 -N 2 -l: 71
+after balance -l: 71
+after rewrite -z -l: 71
+after balance -l: 71
+after dc2: 70
+after balance -l: 70
+after resub -K 6 -l: 69
+after rewrite -l: 69
+after resub -K 6 -N 2: 69
+after refactor -l: 69
+after resub -K 8 -l: 69
+after balance -l: 69
+after resub -K 8 -N 2 -l: 69
+after rewrite -l: 69
+after resub -K 10 -l: 69
+after rewrite -z -l: 69
+after resub -K 10 -N 2 -l: 69
+after balance -l: 69
+after resub -K 12 -l: 69
+after refactor -z -l: 69
+after resub -K 12 -N 2 -l: 69
+after balance -l: 69
+after rewrite -z -l: 69
+after balance -l: 69
+after dc2: 69
+after balance -l: 69
+after resub -K 6 -l: 69
+after rewrite -l: 69
+after resub -K 6 -N 2: 69
+after refactor -l: 69
+after resub -K 8 -l: 69
+after balance -l: 69
+after resub -K 8 -N 2 -l: 69
+after rewrite -l: 69
+after resub -K 10 -l: 69
+after rewrite -z -l: 69
+after resub -K 10 -N 2 -l: 69
+after balance -l: 69
+after resub -K 12 -l: 69
+after refactor -z -l: 69
+after resub -K 12 -N 2 -l: 69
+after balance -l: 69
+after rewrite -z -l: 69
+after balance -l: 69
+after dc2: 69
+after write_aiger -s knor.6m1Qtd: 69
+size of AIG after compression: 69 gates.
+[1;37mfinished compression in 0.035214 sec.[m
+final size of AIG: 69 gates.
+[1;37mtotal time was 0.042285 sec.[m

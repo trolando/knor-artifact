@@ -1,0 +1,21 @@
+[1;37mfinished parsing automaton in 0.003978 sec.[m
+automaton has 7 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.002065 sec.[m
+constructed game has 43 vertices and 124 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 8 major iterations, 9 minor iterations.
+preprocessing took 0.000051 sec.
+solving took 0.000179 sec.
+[1;37mfinished solving game in 0.000337 sec.[m
+after reachability: 5 states.
+[1;37mfinished post processing in 0.000347 sec.[m
+after bisimulation minimisation: 5 blocks.
+[1;37mfinished bisimulation minimisation in 0.000480 sec.[m
+[1;37mfinished encoding in 0.000660 sec.[m
+final size of AIG: 135 gates.
+[1;37mtotal time was 0.011554 sec.[m

@@ -1,0 +1,84 @@
+[1;37mfinished parsing automaton in 0.042600 sec.[m
+automaton has 5665 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.051462 sec.[m
+constructed game has 17175 vertices and 48704 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 138 iterations.
+preprocessing took 0.000301 sec.
+solving took 0.004648 sec.
+[1;37mfinished solving game in 0.005727 sec.[m
+after reachability: 249 states.
+[1;37mfinished post processing in 0.002178 sec.[m
+after bisimulation minimisation: 127 blocks.
+[1;37mfinished bisimulation minimisation in 0.001596 sec.[m
+isop has 68 terms and 161 nodes.
+isop has 78 terms and 177 nodes.
+isop has 76 terms and 168 nodes.
+isop has 91 terms and 188 nodes.
+isop has 89 terms and 192 nodes.
+isop has 87 terms and 191 nodes.
+isop has 81 terms and 187 nodes.
+isop has 94 terms and 203 nodes.
+isop has 86 terms and 196 nodes.
+[1;37mfinished encoding in 0.002225 sec.[m
+size of AIG before compression: 1570 gates.
+after read_aiger knor.DeWaga: 1570
+after balance -l: 1506
+after resub -K 6 -l: 1451
+after rewrite -l: 1447
+after resub -K 6 -N 2: 1436
+after refactor -l: 1435
+after resub -K 8 -l: 1435
+after balance -l: 1435
+after resub -K 8 -N 2 -l: 1433
+after rewrite -l: 1433
+after resub -K 10 -l: 1433
+after rewrite -z -l: 1430
+after resub -K 10 -N 2 -l: 1420
+after balance -l: 1420
+after resub -K 12 -l: 1416
+after refactor -z -l: 1416
+after resub -K 12 -N 2 -l: 1413
+after balance -l: 1405
+after rewrite -z -l: 1403
+after balance -l: 1401
+after dc2: 1387
+after balance -l: 1386
+after resub -K 6 -l: 1381
+after rewrite -l: 1381
+after resub -K 6 -N 2: 1378
+after refactor -l: 1378
+after resub -K 8 -l: 1378
+after balance -l: 1378
+after resub -K 8 -N 2 -l: 1376
+after rewrite -l: 1376
+after resub -K 10 -l: 1376
+after rewrite -z -l: 1371
+after resub -K 10 -N 2 -l: 1366
+after balance -l: 1366
+after resub -K 12 -l: 1365
+after refactor -z -l: 1364
+after resub -K 12 -N 2 -l: 1363
+after balance -l: 1361
+after rewrite -z -l: 1361
+after balance -l: 1361
+after dc2: 1359
+after write_aiger -s knor.QCDJX5: 1359
+size of AIG after compression: 1359 gates.
+[1;37mfinished compression in 0.507881 sec.[m
+final size of AIG: 1359 gates.
+[1;37mtotal time was 0.623140 sec.[m

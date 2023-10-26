@@ -1,0 +1,35 @@
+[1;37mfinished parsing automaton in 0.007092 sec.[m
+automaton has 7 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.009207 sec.[m
+constructed game has 57 vertices and 211 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 8 iterations.
+preprocessing took 0.000012 sec.
+solving took 0.000019 sec.
+[1;37mfinished solving game in 0.000058 sec.[m
+after reachability: 2 states.
+[1;37mfinished post processing in 0.000104 sec.[m
+after bisimulation minimisation: 2 blocks.
+[1;37mfinished bisimulation minimisation in 0.000148 sec.[m
+[1;37mfinished encoding in 0.000112 sec.[m
+size of AIG before drw+drf: 21 gates.
+after read_aiger knor.7M4c4m: 21
+after drw: 17
+after balance: 17
+after drf: 17
+after dc2: 16
+after drw: 16
+after balance: 16
+after drf: 16
+after dc2: 16
+after write_aiger -s knor.Ol0gG0: 16
+size of AIG after drw+drf: 16 gates.
+[1;37mfinished drw+drf in 0.010303 sec.[m
+final size of AIG: 16 gates.
+[1;37mtotal time was 0.030352 sec.[m

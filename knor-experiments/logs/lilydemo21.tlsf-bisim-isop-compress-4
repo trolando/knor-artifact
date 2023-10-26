@@ -1,0 +1,99 @@
+[1;37mfinished parsing automaton in 0.000979 sec.[m
+automaton has 75 states.
+priorities are on states
+[1;37mfinished constructing game in 0.000998 sec.[m
+constructed game has 445 vertices and 1192 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.000016 sec.
+solving took 0.000036 sec.
+[1;37mfinished solving game in 0.000084 sec.[m
+after reachability: 74 states.
+[1;37mfinished post processing in 0.000274 sec.[m
+starting garbage collection...
+garbage collection finished.
+after bisimulation minimisation: 66 blocks.
+[1;37mfinished bisimulation minimisation in 0.000817 sec.[m
+isop has 28 terms and 32 nodes.
+isop has 36 terms and 36 nodes.
+isop has 32 terms and 36 nodes.
+isop has 29 terms and 41 nodes.
+isop has 4 terms and 21 nodes.
+isop has 58 terms and 108 nodes.
+isop has 53 terms and 124 nodes.
+isop has 56 terms and 129 nodes.
+isop has 69 terms and 130 nodes.
+isop has 51 terms and 123 nodes.
+isop has 64 terms and 131 nodes.
+[1;37mfinished encoding in 0.001101 sec.[m
+size of AIG before compression: 880 gates.
+after read_aiger knor.6Yj2G8: 880
+after balance -l: 809
+after resub -K 6 -l: 779
+after rewrite -l: 768
+after resub -K 6 -N 2: 757
+after refactor -l: 754
+after resub -K 8 -l: 750
+after balance -l: 750
+after resub -K 8 -N 2 -l: 747
+after rewrite -l: 746
+after resub -K 10 -l: 743
+after rewrite -z -l: 742
+after resub -K 10 -N 2 -l: 736
+after balance -l: 736
+after resub -K 12 -l: 735
+after refactor -z -l: 731
+after resub -K 12 -N 2 -l: 729
+after balance -l: 728
+after rewrite -z -l: 723
+after balance -l: 723
+after dc2: 715
+after balance -l: 714
+after resub -K 6 -l: 712
+after rewrite -l: 712
+after resub -K 6 -N 2: 710
+after refactor -l: 710
+after resub -K 8 -l: 710
+after balance -l: 710
+after resub -K 8 -N 2 -l: 707
+after rewrite -l: 707
+after resub -K 10 -l: 706
+after rewrite -z -l: 706
+after resub -K 10 -N 2 -l: 700
+after balance -l: 700
+after resub -K 12 -l: 700
+after refactor -z -l: 698
+after resub -K 12 -N 2 -l: 694
+after balance -l: 694
+after rewrite -z -l: 690
+after balance -l: 690
+after dc2: 686
+after balance -l: 686
+after resub -K 6 -l: 686
+after rewrite -l: 685
+after resub -K 6 -N 2: 685
+after refactor -l: 685
+after resub -K 8 -l: 685
+after balance -l: 685
+after resub -K 8 -N 2 -l: 685
+after rewrite -l: 685
+after resub -K 10 -l: 685
+after rewrite -z -l: 685
+after resub -K 10 -N 2 -l: 684
+after balance -l: 684
+after resub -K 12 -l: 684
+after refactor -z -l: 682
+after resub -K 12 -N 2 -l: 680
+after balance -l: 680
+after rewrite -z -l: 678
+after balance -l: 677
+after dc2: 675
+after write_aiger -s knor.EITdIz: 675
+size of AIG after compression: 675 gates.
+[1;37mfinished compression in 0.372325 sec.[m
+final size of AIG: 675 gates.
+[1;37mtotal time was 0.377504 sec.[m

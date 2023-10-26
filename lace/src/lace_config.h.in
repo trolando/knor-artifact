@@ -1,0 +1,4 @@
+#cmakedefine01 LACE_PIE_TIMES
+#cmakedefine01 LACE_COUNT_TASKS
+#cmakedefine01 LACE_COUNT_STEALS
+#cmakedefine01 LACE_COUNT_SPLITS

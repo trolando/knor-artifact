@@ -1,0 +1,45 @@
+[1;37mfinished parsing automaton in 0.019659 sec.[m
+automaton has 195 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.016267 sec.[m
+[1;37mfinished solving game in 0.020754 sec.[m
+after reachability: 63 states.
+[1;37mfinished post processing in 0.001316 sec.[m
+starting garbage collection...
+garbage collection finished.
+after bisimulation minimisation: 42 blocks.
+[1;37mfinished bisimulation minimisation in 0.001291 sec.[m
+[1;37mfinished encoding in 0.001055 sec.[m
+size of AIG before drw+drf: 660 gates.
+after read_aiger knor.5U6Db6: 660
+after drw: 569
+after balance: 566
+after drf: 540
+after dc2: 471
+after drw: 465
+after balance: 465
+after drf: 459
+after dc2: 440
+after drw: 438
+after balance: 438
+after drf: 434
+after dc2: 423
+after drw: 423
+after balance: 423
+after drf: 422
+after dc2: 417
+after drw: 415
+after balance: 415
+after drf: 415
+after dc2: 415
+after write_aiger -s knor.GK6grp: 415
+size of AIG after drw+drf: 415 gates.
+[1;37mfinished drw+drf in 0.058562 sec.[m
+final size of AIG: 415 gates.
+[1;37mtotal time was 0.119432 sec.[m

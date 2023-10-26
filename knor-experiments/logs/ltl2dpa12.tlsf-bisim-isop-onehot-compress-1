@@ -1,0 +1,68 @@
+[1;37mfinished parsing automaton in 0.004128 sec.[m
+automaton has 111 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001643 sec.[m
+constructed game has 644 vertices and 1827 edges.
+parity game renumbered (7 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 14 dominions and 46 tangles.
+solved in 9 iterations.
+preprocessing took 0.000099 sec.
+solving took 0.000742 sec.
+[1;37mfinished solving game in 0.001057 sec.[m
+starting garbage collection...
+garbage collection finished.
+after reachability: 19 states.
+[1;37mfinished post processing in 0.002064 sec.[m
+after bisimulation minimisation: 12 blocks.
+[1;37mfinished bisimulation minimisation in 0.000188 sec.[m
+[1;37mfinished encoding in 0.000215 sec.[m
+size of AIG before compression: 73 gates.
+after read_aiger knor.Qdndew: 73
+after balance -l: 71
+after resub -K 6 -l: 69
+after rewrite -l: 69
+after resub -K 6 -N 2: 69
+after refactor -l: 69
+after resub -K 8 -l: 69
+after balance -l: 69
+after resub -K 8 -N 2 -l: 69
+after rewrite -l: 69
+after resub -K 10 -l: 69
+after rewrite -z -l: 69
+after resub -K 10 -N 2 -l: 69
+after balance -l: 69
+after resub -K 12 -l: 69
+after refactor -z -l: 69
+after resub -K 12 -N 2 -l: 69
+after balance -l: 69
+after rewrite -z -l: 69
+after balance -l: 69
+after dc2: 67
+after balance -l: 67
+after resub -K 6 -l: 67
+after rewrite -l: 67
+after resub -K 6 -N 2: 67
+after refactor -l: 67
+after resub -K 8 -l: 67
+after balance -l: 67
+after resub -K 8 -N 2 -l: 67
+after rewrite -l: 67
+after resub -K 10 -l: 67
+after rewrite -z -l: 67
+after resub -K 10 -N 2 -l: 67
+after balance -l: 67
+after resub -K 12 -l: 67
+after refactor -z -l: 67
+after resub -K 12 -N 2 -l: 67
+after balance -l: 67
+after rewrite -z -l: 67
+after balance -l: 67
+after dc2: 67
+after write_aiger -s knor.gn7Sqm: 67
+size of AIG after compression: 67 gates.
+[1;37mfinished compression in 0.027343 sec.[m
+final size of AIG: 67 gates.
+[1;37mtotal time was 0.039873 sec.[m

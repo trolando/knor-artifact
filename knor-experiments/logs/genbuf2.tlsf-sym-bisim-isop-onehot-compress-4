@@ -1,0 +1,73 @@
+[1;37mfinished parsing automaton in 0.352313 sec.[m
+automaton has 7284 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.434119 sec.[m
+[1;37mfinished solving game in 1.966305 sec.[m
+starting garbage collection...
+garbage collection finished.
+after reachability: 881 states.
+[1;37mfinished post processing in 0.027150 sec.[m
+after bisimulation minimisation: 668 blocks.
+[1;37mfinished bisimulation minimisation in 0.010353 sec.[m
+[1;37mfinished encoding in 0.098501 sec.[m
+size of AIG before compression: 6433 gates.
+after read_aiger knor.Sh0iyW: 6433
+after balance -l: 6134
+after resub -K 6 -l: 5904
+after rewrite -l: 5812
+after resub -K 6 -N 2: 5771
+after refactor -l: 5765
+after resub -K 8 -l: 5750
+after balance -l: 5721
+after resub -K 8 -N 2 -l: 5620
+after rewrite -l: 5611
+after resub -K 10 -l: 5609
+after rewrite -z -l: 5568
+after resub -K 10 -N 2 -l: 5517
+after balance -l: 5483
+after resub -K 12 -l: 5447
+after refactor -z -l: 5439
+after resub -K 12 -N 2 -l: 5403
+after balance -l: 5382
+after rewrite -z -l: 5355
+after balance -l: 5343
+after dc2: 5270
+after balance -l: 5254
+after resub -K 6 -l: 5246
+after rewrite -l: 5239
+after resub -K 6 -N 2: 5238
+after refactor -l: 5237
+after resub -K 8 -l: 5236
+after balance -l: 5235
+after resub -K 8 -N 2 -l: 5228
+after rewrite -l: 5226
+after resub -K 10 -l: 5226
+after rewrite -z -l: 5217
+after resub -K 10 -N 2 -l: 5205
+after balance -l: 5200
+after resub -K 12 -l: 5196
+after refactor -z -l: 5194
+after resub -K 12 -N 2 -l: 5186
+after balance -l: 5183
+after rewrite -z -l: 5175
+after balance -l: 5173
+after dc2: 5140
+after write_aiger -s knor.QI1g0E: 5140
+size of AIG after compression: 5140 gates.
+[1;37mfinished compression in 1.919685 sec.[m
+final size of AIG: 5140 gates.
+[1;37mtotal time was 4.809170 sec.[m

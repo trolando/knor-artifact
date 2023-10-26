@@ -1,0 +1,73 @@
+[1;37mfinished parsing automaton in 0.798519 sec.[m
+automaton has 5642 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 1.855868 sec.[m
+constructed game has 177690 vertices and 1217102 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.004048 sec.
+solving took 0.007974 sec.
+[1;37mfinished solving game in 0.023099 sec.[m
+after reachability: 2583 states.
+[1;37mfinished post processing in 0.139638 sec.[m
+after bisimulation minimisation: 1405 blocks.
+[1;37mfinished bisimulation minimisation in 0.108092 sec.[m
+isop has 2006 terms and 4492 nodes.
+isop has 1128 terms and 3063 nodes.
+isop has 1860 terms and 4263 nodes.
+isop has 1254 terms and 3122 nodes.
+isop has 2208 terms and 4792 nodes.
+isop has 2926 terms and 6202 nodes.
+isop has 1182 terms and 2807 nodes.
+isop has 1216 terms and 2932 nodes.
+starting garbage collection...
+garbage collection finished.
+isop has 9048 terms and 20002 nodes.
+isop has 5409 terms and 12542 nodes.
+isop has 15757 terms and 31512 nodes.
+isop has 15643 terms and 30833 nodes.
+isop has 19146 terms and 36379 nodes.
+isop has 21765 terms and 41062 nodes.
+isop has 23389 terms and 42574 nodes.
+isop has 24105 terms and 43287 nodes.
+isop has 22975 terms and 42012 nodes.
+isop has 21871 terms and 39814 nodes.
+isop has 24970 terms and 44403 nodes.
+[1;37mfinished encoding in 2.600797 sec.[m
+size of AIG before drw+drf: 452972 gates.
+after read_aiger knor.Xx3PCE: 452972
+after drw: 364750
+after balance: 363735
+after drf: 363568
+after dc2: 357894
+after drw: 356763
+after balance: 356544
+after drf: 356386
+after dc2: 354924
+after write_aiger -s knor.w3Auzs: 354924
+size of AIG after drw+drf: 354924 gates.
+[1;37mfinished drw+drf in 25.541464 sec.[m
+final size of AIG: 354924 gates.
+[1;37mtotal time was 31.864796 sec.[m

@@ -1,0 +1,3 @@
+#!/bin/bash
+./knor $1 --sym --bisim --onehot -a 2>/dev/null
+

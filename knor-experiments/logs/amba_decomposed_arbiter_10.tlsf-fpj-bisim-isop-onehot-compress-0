@@ -1,0 +1,143 @@
+[1;37mfinished parsing automaton in 0.066203 sec.[m
+automaton has 185 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.794772 sec.[m
+constructed game has 92209 vertices and 1447189 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 10 iterations.
+preprocessing took 0.002811 sec.
+solving took 0.006278 sec.
+[1;37mfinished solving game in 0.016066 sec.[m
+after reachability: 184 states.
+[1;37mfinished post processing in 0.037855 sec.[m
+after bisimulation minimisation: 137 blocks.
+[1;37mfinished bisimulation minimisation in 0.006362 sec.[m
+[1;37mfinished encoding in 0.046091 sec.[m
+size of AIG before compression: 8145 gates.
+after read_aiger knor.2I5voa: 8145
+after balance -l: 6744
+after resub -K 6 -l: 6509
+after rewrite -l: 6323
+after resub -K 6 -N 2: 6258
+after refactor -l: 6080
+after resub -K 8 -l: 5943
+after balance -l: 5915
+after resub -K 8 -N 2 -l: 5807
+after rewrite -l: 5758
+after resub -K 10 -l: 5733
+after rewrite -z -l: 5615
+after resub -K 10 -N 2 -l: 5458
+after balance -l: 5445
+after resub -K 12 -l: 5413
+after refactor -z -l: 5233
+after resub -K 12 -N 2 -l: 5053
+after balance -l: 5034
+after rewrite -z -l: 4956
+after balance -l: 4947
+after dc2: 4631
+after balance -l: 4624
+after resub -K 6 -l: 4577
+after rewrite -l: 4557
+after resub -K 6 -N 2: 4545
+after refactor -l: 4502
+after resub -K 8 -l: 4451
+after balance -l: 4448
+after resub -K 8 -N 2 -l: 4418
+after rewrite -l: 4414
+after resub -K 10 -l: 4401
+after rewrite -z -l: 4392
+after resub -K 10 -N 2 -l: 4341
+after balance -l: 4341
+after resub -K 12 -l: 4330
+after refactor -z -l: 4297
+after resub -K 12 -N 2 -l: 4248
+after balance -l: 4246
+after rewrite -z -l: 4222
+after balance -l: 4220
+after dc2: 4130
+after balance -l: 4121
+after resub -K 6 -l: 4102
+after rewrite -l: 4097
+after resub -K 6 -N 2: 4091
+after refactor -l: 4084
+after resub -K 8 -l: 4071
+after balance -l: 4070
+after resub -K 8 -N 2 -l: 4057
+after rewrite -l: 4053
+after resub -K 10 -l: 4051
+after rewrite -z -l: 4042
+after resub -K 10 -N 2 -l: 4020
+after balance -l: 4019
+after resub -K 12 -l: 4017
+after refactor -z -l: 4002
+after resub -K 12 -N 2 -l: 3975
+after balance -l: 3973
+after rewrite -z -l: 3966
+after balance -l: 3965
+after dc2: 3917
+after balance -l: 3916
+after resub -K 6 -l: 3910
+after rewrite -l: 3903
+after resub -K 6 -N 2: 3901
+after refactor -l: 3888
+after resub -K 8 -l: 3880
+after balance -l: 3880
+after resub -K 8 -N 2 -l: 3873
+after rewrite -l: 3872
+after resub -K 10 -l: 3869
+after rewrite -z -l: 3864
+after resub -K 10 -N 2 -l: 3850
+after balance -l: 3849
+after resub -K 12 -l: 3847
+after refactor -z -l: 3843
+after resub -K 12 -N 2 -l: 3826
+after balance -l: 3822
+after rewrite -z -l: 3815
+after balance -l: 3813
+after dc2: 3772
+after balance -l: 3770
+after resub -K 6 -l: 3766
+after rewrite -l: 3763
+after resub -K 6 -N 2: 3761
+after refactor -l: 3758
+after resub -K 8 -l: 3756
+after balance -l: 3756
+after resub -K 8 -N 2 -l: 3751
+after rewrite -l: 3751
+after resub -K 10 -l: 3746
+after rewrite -z -l: 3741
+after resub -K 10 -N 2 -l: 3729
+after balance -l: 3729
+after resub -K 12 -l: 3728
+after refactor -z -l: 3727
+after resub -K 12 -N 2 -l: 3721
+after balance -l: 3721
+after rewrite -z -l: 3718
+after balance -l: 3717
+after dc2: 3698
+after write_aiger -s knor.HaprxW: 3698
+size of AIG after compression: 3698 gates.
+[1;37mfinished compression in 3.054439 sec.[m
+final size of AIG: 3698 gates.
+[1;37mtotal time was 5.125397 sec.[m

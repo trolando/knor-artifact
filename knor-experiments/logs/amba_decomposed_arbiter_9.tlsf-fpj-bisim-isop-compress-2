@@ -1,0 +1,99 @@
+[1;37mfinished parsing automaton in 0.039628 sec.[m
+automaton has 149 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.243455 sec.[m
+constructed game has 38567 vertices and 542587 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 10 iterations.
+preprocessing took 0.001089 sec.
+solving took 0.002499 sec.
+[1;37mfinished solving game in 0.006131 sec.[m
+after reachability: 147 states.
+[1;37mfinished post processing in 0.017106 sec.[m
+after bisimulation minimisation: 122 blocks.
+[1;37mfinished bisimulation minimisation in 0.004295 sec.[m
+isop has 342 terms and 667 nodes.
+isop has 40 terms and 157 nodes.
+isop has 17 terms and 90 nodes.
+isop has 90 terms and 284 nodes.
+isop has 34 terms and 178 nodes.
+isop has 39 terms and 164 nodes.
+isop has 62 terms and 231 nodes.
+isop has 36 terms and 175 nodes.
+isop has 75 terms and 292 nodes.
+isop has 369 terms and 1022 nodes.
+starting garbage collection...
+garbage collection finished.
+isop has 653 terms and 1891 nodes.
+isop has 961 terms and 2560 nodes.
+isop has 806 terms and 2197 nodes.
+isop has 915 terms and 2442 nodes.
+isop has 924 terms and 2472 nodes.
+isop has 1118 terms and 2968 nodes.
+isop has 1054 terms and 2817 nodes.
+isop has 895 terms and 2346 nodes.
+[1;37mfinished encoding in 0.085362 sec.[m
+size of AIG before compression: 23384 gates.
+after read_aiger knor.QBofk1: 23384
+after balance -l: 18893
+after resub -K 6 -l: 18528
+after rewrite -l: 18332
+after resub -K 6 -N 2: 18192
+after refactor -l: 18152
+after resub -K 8 -l: 18121
+after balance -l: 18106
+after resub -K 8 -N 2 -l: 18019
+after rewrite -l: 17994
+after resub -K 10 -l: 17992
+after rewrite -z -l: 17807
+after resub -K 10 -N 2 -l: 17702
+after balance -l: 17679
+after resub -K 12 -l: 17667
+after refactor -z -l: 17655
+after resub -K 12 -N 2 -l: 17617
+after balance -l: 17573
+after rewrite -z -l: 17492
+after balance -l: 17483
+after dc2: 17123
+after balance -l: 17083
+after resub -K 6 -l: 17062
+after rewrite -l: 17028
+after resub -K 6 -N 2: 17019
+after refactor -l: 17018
+after resub -K 8 -l: 17010
+after balance -l: 17010
+after resub -K 8 -N 2 -l: 17000
+after rewrite -l: 16996
+after resub -K 10 -l: 16996
+after rewrite -z -l: 16970
+after resub -K 10 -N 2 -l: 16935
+after balance -l: 16933
+after resub -K 12 -l: 16931
+after refactor -z -l: 16926
+after resub -K 12 -N 2 -l: 16914
+after balance -l: 16905
+after rewrite -z -l: 16882
+after balance -l: 16880
+after dc2: 16761
+after write_aiger -s knor.Oupq7u: 16761
+size of AIG after compression: 16761 gates.
+[1;37mfinished compression in 5.552506 sec.[m
+final size of AIG: 16761 gates.
+[1;37mtotal time was 6.327399 sec.[m

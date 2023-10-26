@@ -1,0 +1,21 @@
+[1;37mfinished parsing automaton in 0.003333 sec.[m
+automaton has 19 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001005 sec.[m
+constructed game has 59 vertices and 152 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.000013 sec.
+solving took 0.000027 sec.
+[1;37mfinished solving game in 0.000064 sec.[m
+after reachability: 7 states.
+[1;37mfinished post processing in 0.000247 sec.[m
+after bisimulation minimisation: 4 blocks.
+[1;37mfinished bisimulation minimisation in 0.000308 sec.[m
+[1;37mfinished encoding in 0.000609 sec.[m
+final size of AIG: 25 gates.
+[1;37mtotal time was 0.007885 sec.[m

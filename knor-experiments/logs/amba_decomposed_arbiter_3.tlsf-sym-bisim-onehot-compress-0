@@ -1,0 +1,77 @@
+[1;37mfinished parsing automaton in 0.001023 sec.[m
+automaton has 17 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001803 sec.[m
+[1;37mfinished solving game in 0.003166 sec.[m
+after reachability: 15 states.
+[1;37mfinished post processing in 0.000125 sec.[m
+after bisimulation minimisation: 13 blocks.
+[1;37mfinished bisimulation minimisation in 0.000107 sec.[m
+[1;37mfinished encoding in 0.000211 sec.[m
+size of AIG before compression: 106 gates.
+after read_aiger knor.SxYDvz: 106
+after balance -l: 103
+after resub -K 6 -l: 95
+after rewrite -l: 88
+after resub -K 6 -N 2: 87
+after refactor -l: 87
+after resub -K 8 -l: 87
+after balance -l: 87
+after resub -K 8 -N 2 -l: 87
+after rewrite -l: 86
+after resub -K 10 -l: 86
+after rewrite -z -l: 86
+after resub -K 10 -N 2 -l: 83
+after balance -l: 83
+after resub -K 12 -l: 83
+after refactor -z -l: 83
+after resub -K 12 -N 2 -l: 83
+after balance -l: 83
+after rewrite -z -l: 82
+after balance -l: 82
+after dc2: 80
+after balance -l: 80
+after resub -K 6 -l: 77
+after rewrite -l: 77
+after resub -K 6 -N 2: 77
+after refactor -l: 77
+after resub -K 8 -l: 77
+after balance -l: 77
+after resub -K 8 -N 2 -l: 77
+after rewrite -l: 77
+after resub -K 10 -l: 77
+after rewrite -z -l: 77
+after resub -K 10 -N 2 -l: 77
+after balance -l: 77
+after resub -K 12 -l: 77
+after refactor -z -l: 77
+after resub -K 12 -N 2 -l: 77
+after balance -l: 77
+after rewrite -z -l: 77
+after balance -l: 77
+after dc2: 77
+after balance -l: 77
+after resub -K 6 -l: 77
+after rewrite -l: 77
+after resub -K 6 -N 2: 77
+after refactor -l: 77
+after resub -K 8 -l: 77
+after balance -l: 77
+after resub -K 8 -N 2 -l: 77
+after rewrite -l: 77
+after resub -K 10 -l: 77
+after rewrite -z -l: 77
+after resub -K 10 -N 2 -l: 77
+after balance -l: 77
+after resub -K 12 -l: 77
+after refactor -z -l: 77
+after resub -K 12 -N 2 -l: 77
+after balance -l: 77
+after rewrite -z -l: 77
+after balance -l: 77
+after dc2: 77
+after write_aiger -s knor.TGXano: 77
+size of AIG after compression: 77 gates.
+[1;37mfinished compression in 0.035164 sec.[m
+final size of AIG: 77 gates.
+[1;37mtotal time was 0.043576 sec.[m

@@ -1,0 +1,68 @@
+[1;37mfinished parsing automaton in 0.014406 sec.[m
+automaton has 89 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.042293 sec.[m
+constructed game has 6605 vertices and 69781 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 6 major iterations, 11 minor iterations.
+preprocessing took 0.000181 sec.
+solving took 0.002141 sec.
+[1;37mfinished solving game in 0.002669 sec.[m
+after reachability: 87 states.
+[1;37mfinished post processing in 0.002346 sec.[m
+after bisimulation minimisation: 69 blocks.
+[1;37mfinished bisimulation minimisation in 0.001394 sec.[m
+isop has 108 terms and 270 nodes.
+isop has 9 terms and 34 nodes.
+isop has 20 terms and 98 nodes.
+isop has 25 terms and 96 nodes.
+isop has 50 terms and 175 nodes.
+isop has 39 terms and 153 nodes.
+isop has 42 terms and 126 nodes.
+isop has 134 terms and 347 nodes.
+isop has 65 terms and 77 nodes.
+isop has 100 terms and 284 nodes.
+isop has 157 terms and 436 nodes.
+isop has 355 terms and 919 nodes.
+isop has 390 terms and 1012 nodes.
+isop has 379 terms and 948 nodes.
+isop has 385 terms and 1012 nodes.
+isop has 436 terms and 1080 nodes.
+[1;37mfinished encoding in 0.012552 sec.[m
+size of AIG before drw+drf: 7158 gates.
+after read_aiger knor.2jMYjk: 7158
+after drw: 5830
+after balance: 5697
+after drf: 5678
+after dc2: 5430
+after drw: 5385
+after balance: 5385
+after drf: 5383
+after dc2: 5324
+after drw: 5306
+after balance: 5306
+after drf: 5304
+after dc2: 5268
+after drw: 5261
+after balance: 5261
+after drf: 5257
+after dc2: 5238
+after write_aiger -s knor.rBbT50: 5238
+size of AIG after drw+drf: 5238 gates.
+[1;37mfinished drw+drf in 0.639796 sec.[m
+final size of AIG: 5238 gates.
+[1;37mtotal time was 0.756513 sec.[m

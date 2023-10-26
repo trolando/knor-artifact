@@ -1,0 +1,24 @@
+[1;37mfinished parsing automaton in 0.001766 sec.[m
+automaton has 19 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.002489 sec.[m
+constructed game has 250 vertices and 640 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using priority promotion NPP
+solved with 2 total queries and 0 total promotions;
+            1 max queries and 0 max promotions;
+            2 dominions.
+preprocessing took 0.000015 sec.
+solving took 0.000035 sec.
+[1;37mfinished solving game in 0.000082 sec.[m
+starting garbage collection...
+garbage collection finished.
+after reachability: 13 states.
+[1;37mfinished post processing in 0.000648 sec.[m
+[1;37mfinished encoding in 0.000255 sec.[m
+final size of AIG: 410 gates.
+[1;37mtotal time was 0.006044 sec.[m

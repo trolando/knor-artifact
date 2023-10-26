@@ -1,0 +1,66 @@
+[1;37mfinished parsing automaton in 0.001177 sec.[m
+automaton has 42 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001697 sec.[m
+constructed game has 132 vertices and 331 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 3 dominions and 0 tangles.
+solved in 3 iterations.
+preprocessing took 0.000059 sec.
+solving took 0.000156 sec.
+[1;37mfinished solving game in 0.000339 sec.[m
+after reachability: 9 states.
+[1;37mfinished post processing in 0.000219 sec.[m
+after bisimulation minimisation: 7 blocks.
+[1;37mfinished bisimulation minimisation in 0.000248 sec.[m
+[1;37mfinished encoding in 0.000496 sec.[m
+size of AIG before compression: 41 gates.
+after read_aiger knor.bPivYD: 41
+after balance -l: 40
+after resub -K 6 -l: 31
+after rewrite -l: 30
+after resub -K 6 -N 2: 30
+after refactor -l: 30
+after resub -K 8 -l: 30
+after balance -l: 30
+after resub -K 8 -N 2 -l: 30
+after rewrite -l: 30
+after resub -K 10 -l: 30
+after rewrite -z -l: 30
+after resub -K 10 -N 2 -l: 30
+after balance -l: 30
+after resub -K 12 -l: 30
+after refactor -z -l: 29
+after resub -K 12 -N 2 -l: 29
+after balance -l: 29
+after rewrite -z -l: 29
+after balance -l: 29
+after dc2: 29
+after balance -l: 29
+after resub -K 6 -l: 29
+after rewrite -l: 29
+after resub -K 6 -N 2: 29
+after refactor -l: 29
+after resub -K 8 -l: 29
+after balance -l: 29
+after resub -K 8 -N 2 -l: 29
+after rewrite -l: 29
+after resub -K 10 -l: 29
+after rewrite -z -l: 29
+after resub -K 10 -N 2 -l: 29
+after balance -l: 29
+after resub -K 12 -l: 29
+after refactor -z -l: 29
+after resub -K 12 -N 2 -l: 29
+after balance -l: 29
+after rewrite -z -l: 29
+after balance -l: 29
+after dc2: 29
+after write_aiger -s knor.xr9LLu: 29
+size of AIG after compression: 29 gates.
+[1;37mfinished compression in 0.024875 sec.[m
+final size of AIG: 29 gates.
+[1;37mtotal time was 0.031092 sec.[m

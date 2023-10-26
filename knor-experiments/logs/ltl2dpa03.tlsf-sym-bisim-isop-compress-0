@@ -1,0 +1,72 @@
+[1;37mfinished parsing automaton in 0.003434 sec.[m
+automaton has 199 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.003002 sec.[m
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished solving game in 0.040438 sec.[m
+after reachability: 67 states.
+[1;37mfinished post processing in 0.000423 sec.[m
+after bisimulation minimisation: 34 blocks.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished bisimulation minimisation in 0.000900 sec.[m
+isop has 15 terms and 46 nodes.
+isop has 20 terms and 66 nodes.
+isop has 22 terms and 56 nodes.
+isop has 2 terms and 14 nodes.
+isop has 46 terms and 106 nodes.
+isop has 43 terms and 91 nodes.
+isop has 39 terms and 93 nodes.
+isop has 34 terms and 85 nodes.
+isop has 39 terms and 89 nodes.
+[1;37mfinished encoding in 0.000674 sec.[m
+size of AIG before compression: 638 gates.
+after read_aiger knor.TKp5vT: 638
+after balance -l: 571
+after resub -K 6 -l: 546
+after rewrite -l: 541
+after resub -K 6 -N 2: 534
+after refactor -l: 534
+after resub -K 8 -l: 533
+after balance -l: 533
+after resub -K 8 -N 2 -l: 526
+after rewrite -l: 525
+after resub -K 10 -l: 525
+after rewrite -z -l: 520
+after resub -K 10 -N 2 -l: 515
+after balance -l: 515
+after resub -K 12 -l: 514
+after refactor -z -l: 514
+after resub -K 12 -N 2 -l: 510
+after balance -l: 508
+after rewrite -z -l: 506
+after balance -l: 506
+after dc2: 498
+after balance -l: 498
+after resub -K 6 -l: 496
+after rewrite -l: 496
+after resub -K 6 -N 2: 493
+after refactor -l: 493
+after resub -K 8 -l: 493
+after balance -l: 493
+after resub -K 8 -N 2 -l: 491
+after rewrite -l: 491
+after resub -K 10 -l: 491
+after rewrite -z -l: 491
+after resub -K 10 -N 2 -l: 491
+after balance -l: 491
+after resub -K 12 -l: 491
+after refactor -z -l: 491
+after resub -K 12 -N 2 -l: 490
+after balance -l: 490
+after rewrite -z -l: 490
+after balance -l: 490
+after dc2: 489
+after write_aiger -s knor.TukAhN: 489
+size of AIG after compression: 489 gates.
+[1;37mfinished compression in 0.195423 sec.[m
+final size of AIG: 489 gates.
+[1;37mtotal time was 0.244972 sec.[m

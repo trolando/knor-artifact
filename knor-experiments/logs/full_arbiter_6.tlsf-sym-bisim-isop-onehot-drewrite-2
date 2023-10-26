@@ -1,0 +1,87 @@
+[1;37mfinished parsing automaton in 0.042705 sec.[m
+automaton has 872 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.053034 sec.[m
+[1;37mfinished solving game in 0.029838 sec.[m
+after reachability: 319 states.
+[1;37mfinished post processing in 0.002974 sec.[m
+after bisimulation minimisation: 145 blocks.
+[1;37mfinished bisimulation minimisation in 0.002764 sec.[m
+[1;37mfinished encoding in 0.012074 sec.[m
+size of AIG before drw+drf: 4103 gates.
+after read_aiger knor.h9GbNs: 4103
+after drw: 4093
+after balance: 4080
+after drf: 4080
+after dc2: 3913
+after drw: 3888
+after balance: 3884
+after drf: 3816
+after dc2: 3698
+after drw: 3682
+after balance: 3678
+after drf: 3621
+after dc2: 3526
+after drw: 3502
+after balance: 3501
+after drf: 3456
+after dc2: 3350
+after drw: 3335
+after balance: 3334
+after drf: 3290
+after dc2: 3172
+after drw: 3162
+after balance: 3160
+after drf: 3119
+after dc2: 3038
+after drw: 3026
+after balance: 3026
+after drf: 2986
+after dc2: 2918
+after drw: 2916
+after balance: 2916
+after drf: 2901
+after dc2: 2838
+after drw: 2831
+after balance: 2830
+after drf: 2806
+after dc2: 2761
+after drw: 2754
+after balance: 2754
+after drf: 2743
+after dc2: 2706
+after drw: 2702
+after balance: 2702
+after drf: 2688
+after dc2: 2658
+after drw: 2655
+after balance: 2654
+after drf: 2640
+after dc2: 2626
+after drw: 2622
+after balance: 2622
+after drf: 2616
+after dc2: 2597
+after drw: 2596
+after balance: 2596
+after drf: 2591
+after dc2: 2567
+after drw: 2564
+after balance: 2564
+after drf: 2562
+after dc2: 2551
+after write_aiger -s knor.jv8JQQ: 2551
+size of AIG after drw+drf: 2551 gates.
+[1;37mfinished drw+drf in 1.018724 sec.[m
+final size of AIG: 2551 gates.
+[1;37mtotal time was 1.162944 sec.[m

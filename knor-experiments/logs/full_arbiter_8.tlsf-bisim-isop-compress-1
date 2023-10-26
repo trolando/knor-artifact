@@ -1,0 +1,105 @@
+[1;37mfinished parsing automaton in 0.799557 sec.[m
+automaton has 5642 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 1.854866 sec.[m
+constructed game has 177690 vertices and 1217102 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.004009 sec.
+solving took 0.008112 sec.
+[1;37mfinished solving game in 0.023009 sec.[m
+after reachability: 2583 states.
+[1;37mfinished post processing in 0.140433 sec.[m
+after bisimulation minimisation: 1405 blocks.
+[1;37mfinished bisimulation minimisation in 0.108273 sec.[m
+isop has 2006 terms and 4492 nodes.
+isop has 1128 terms and 3063 nodes.
+isop has 1860 terms and 4263 nodes.
+isop has 1254 terms and 3122 nodes.
+isop has 2208 terms and 4792 nodes.
+isop has 2926 terms and 6202 nodes.
+isop has 1182 terms and 2807 nodes.
+isop has 1216 terms and 2932 nodes.
+starting garbage collection...
+garbage collection finished.
+isop has 9048 terms and 20002 nodes.
+isop has 5409 terms and 12542 nodes.
+isop has 15757 terms and 31512 nodes.
+isop has 15643 terms and 30833 nodes.
+isop has 19146 terms and 36379 nodes.
+isop has 21765 terms and 41062 nodes.
+isop has 23389 terms and 42574 nodes.
+isop has 24105 terms and 43287 nodes.
+isop has 22975 terms and 42012 nodes.
+isop has 21871 terms and 39814 nodes.
+isop has 24970 terms and 44403 nodes.
+[1;37mfinished encoding in 2.590759 sec.[m
+size of AIG before compression: 452972 gates.
+after read_aiger knor.S4SgeR: 452972
+after balance -l: 404699
+after resub -K 6 -l: 383251
+after rewrite -l: 381982
+after resub -K 6 -N 2: 375514
+after refactor -l: 375337
+after resub -K 8 -l: 375233
+after balance -l: 375173
+after resub -K 8 -N 2 -l: 374890
+after rewrite -l: 374830
+after resub -K 10 -l: 374808
+after rewrite -z -l: 374269
+after resub -K 10 -N 2 -l: 373691
+after balance -l: 372740
+after resub -K 12 -l: 372639
+after refactor -z -l: 371800
+after resub -K 12 -N 2 -l: 370891
+after balance -l: 365791
+after rewrite -z -l: 364258
+after balance -l: 363902
+after dc2: 357974
+after balance -l: 357026
+after resub -K 6 -l: 356919
+after rewrite -l: 356356
+after resub -K 6 -N 2: 356334
+after refactor -l: 356270
+after resub -K 8 -l: 356254
+after balance -l: 356239
+after resub -K 8 -N 2 -l: 356214
+after rewrite -l: 356202
+after resub -K 10 -l: 356195
+after rewrite -z -l: 355910
+after resub -K 10 -N 2 -l: 355837
+after balance -l: 355770
+after resub -K 12 -l: 355736
+after refactor -z -l: 355651
+after resub -K 12 -N 2 -l: 355539
+after balance -l: 355069
+after rewrite -z -l: 354776
+after balance -l: 354716
+after dc2: 353123
+after write_aiger -s knor.NBvC4g: 353123
+size of AIG after compression: 353123 gates.
+[1;37mfinished compression in 127.963100 sec.[m
+final size of AIG: 353123 gates.
+[1;37mtotal time was 134.276725 sec.[m

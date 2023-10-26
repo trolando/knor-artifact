@@ -1,0 +1,16 @@
+[1;37mfinished parsing automaton in 0.000235 sec.[m
+automaton has 11 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001011 sec.[m
+constructed game has 60 vertices and 113 edges.
+parity game renumbered (5 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using priority promotion NPP
+solved with 4 total queries and 1 total promotions;
+            4 max queries and 1 max promotions;
+            1 dominions.
+preprocessing took 0.000052 sec.
+solving took 0.000162 sec.
+[1;37mfinished solving game in 0.000325 sec.[m
+[1;37mtotal time was 0.003346 sec.[m

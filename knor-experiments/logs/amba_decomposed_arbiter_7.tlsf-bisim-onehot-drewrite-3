@@ -1,0 +1,80 @@
+[1;37mfinished parsing automaton in 0.014700 sec.[m
+automaton has 89 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.041606 sec.[m
+constructed game has 6605 vertices and 69781 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 3 dominions and 42 tangles.
+solved in 3 iterations.
+preprocessing took 0.000188 sec.
+solving took 0.000447 sec.
+[1;37mfinished solving game in 0.001014 sec.[m
+after reachability: 88 states.
+[1;37mfinished post processing in 0.002961 sec.[m
+after bisimulation minimisation: 77 blocks.
+[1;37mfinished bisimulation minimisation in 0.001297 sec.[m
+[1;37mfinished encoding in 0.007094 sec.[m
+size of AIG before drw+drf: 3431 gates.
+after read_aiger knor.FPfGL1: 3431
+after drw: 2913
+after balance: 2771
+after drf: 2611
+after dc2: 2203
+after drw: 2173
+after balance: 2171
+after drf: 2148
+after dc2: 2046
+after drw: 2031
+after balance: 2031
+after drf: 2011
+after dc2: 1963
+after drw: 1957
+after balance: 1957
+after drf: 1949
+after dc2: 1918
+after drw: 1914
+after balance: 1914
+after drf: 1908
+after dc2: 1863
+after drw: 1844
+after balance: 1844
+after drf: 1835
+after dc2: 1797
+after drw: 1793
+after balance: 1793
+after drf: 1786
+after dc2: 1759
+after drw: 1755
+after balance: 1755
+after drf: 1751
+after dc2: 1727
+after drw: 1723
+after balance: 1723
+after drf: 1720
+after dc2: 1708
+after drw: 1706
+after balance: 1706
+after drf: 1702
+after dc2: 1691
+after drw: 1690
+after balance: 1690
+after drf: 1689
+after dc2: 1678
+after write_aiger -s knor.WodwCm: 1678
+size of AIG after drw+drf: 1678 gates.
+[1;37mfinished drw+drf in 0.502869 sec.[m
+final size of AIG: 1678 gates.
+[1;37mtotal time was 0.608872 sec.[m

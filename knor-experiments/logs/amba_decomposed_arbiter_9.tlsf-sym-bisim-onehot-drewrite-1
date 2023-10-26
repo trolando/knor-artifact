@@ -1,0 +1,57 @@
+[1;37mfinished parsing automaton in 0.041835 sec.[m
+automaton has 149 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.168913 sec.[m
+[1;37mfinished solving game in 0.252663 sec.[m
+after reachability: 147 states.
+[1;37mfinished post processing in 0.019821 sec.[m
+starting garbage collection...
+garbage collection finished.
+after bisimulation minimisation: 91 blocks.
+[1;37mfinished bisimulation minimisation in 0.015270 sec.[m
+[1;37mfinished encoding in 0.011858 sec.[m
+size of AIG before drw+drf: 2735 gates.
+after read_aiger knor.hcslWe: 2735
+after drw: 2159
+after balance: 2071
+after drf: 1806
+after dc2: 1421
+after drw: 1401
+after balance: 1401
+after drf: 1387
+after dc2: 1296
+after drw: 1284
+after balance: 1281
+after drf: 1273
+after dc2: 1239
+after drw: 1231
+after balance: 1231
+after drf: 1228
+after dc2: 1205
+after drw: 1200
+after balance: 1200
+after drf: 1198
+after dc2: 1190
+after drw: 1190
+after balance: 1190
+after drf: 1189
+after dc2: 1184
+after write_aiger -s knor.8jflMA: 1184
+size of AIG after drw+drf: 1184 gates.
+[1;37mfinished drw+drf in 0.187589 sec.[m
+final size of AIG: 1184 gates.
+[1;37mtotal time was 0.698570 sec.[m

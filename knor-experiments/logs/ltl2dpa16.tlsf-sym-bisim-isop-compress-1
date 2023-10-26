@@ -1,0 +1,41 @@
+[1;37mfinished parsing automaton in 0.000156 sec.[m
+automaton has 8 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000475 sec.[m
+[1;37mfinished solving game in 0.000572 sec.[m
+after reachability: 5 states.
+[1;37mfinished post processing in 0.000069 sec.[m
+after bisimulation minimisation: 4 blocks.
+[1;37mfinished bisimulation minimisation in 0.000104 sec.[m
+isop has 1 terms and 3 nodes.
+isop has 2 terms and 3 nodes.
+isop has 2 terms and 3 nodes.
+isop has 2 terms and 3 nodes.
+[1;37mfinished encoding in 0.000230 sec.[m
+size of AIG before compression: 3 gates.
+after read_aiger knor.8TSSzP: 3
+after balance -l: 3
+after resub -K 6 -l: 3
+after rewrite -l: 3
+after resub -K 6 -N 2: 3
+after refactor -l: 3
+after resub -K 8 -l: 3
+after balance -l: 3
+after resub -K 8 -N 2 -l: 3
+after rewrite -l: 3
+after resub -K 10 -l: 3
+after rewrite -z -l: 3
+after resub -K 10 -N 2 -l: 3
+after balance -l: 3
+after resub -K 12 -l: 3
+after refactor -z -l: 3
+after resub -K 12 -N 2 -l: 3
+after balance -l: 3
+after rewrite -z -l: 3
+after balance -l: 3
+after dc2: 3
+after write_aiger -s knor.0kStSP: 3
+size of AIG after compression: 3 gates.
+[1;37mfinished compression in 0.022842 sec.[m
+final size of AIG: 3 gates.
+[1;37mtotal time was 0.026260 sec.[m

@@ -1,0 +1,57 @@
+[1;37mfinished parsing automaton in 0.000156 sec.[m
+automaton has 6 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000736 sec.[m
+[1;37mfinished solving game in 0.000229 sec.[m
+after reachability: 6 states.
+[1;37mfinished post processing in 0.000180 sec.[m
+after bisimulation minimisation: 6 blocks.
+[1;37mfinished bisimulation minimisation in 0.000243 sec.[m
+[1;37mfinished encoding in 0.000562 sec.[m
+size of AIG before compression: 35 gates.
+after read_aiger knor.yr4ydJ: 35
+after balance -l: 35
+after resub -K 6 -l: 35
+after rewrite -l: 35
+after resub -K 6 -N 2: 34
+after refactor -l: 33
+after resub -K 8 -l: 33
+after balance -l: 33
+after resub -K 8 -N 2 -l: 33
+after rewrite -l: 31
+after resub -K 10 -l: 31
+after rewrite -z -l: 31
+after resub -K 10 -N 2 -l: 30
+after balance -l: 30
+after resub -K 12 -l: 30
+after refactor -z -l: 30
+after resub -K 12 -N 2 -l: 30
+after balance -l: 30
+after rewrite -z -l: 30
+after balance -l: 30
+after dc2: 30
+after balance -l: 30
+after resub -K 6 -l: 30
+after rewrite -l: 30
+after resub -K 6 -N 2: 30
+after refactor -l: 30
+after resub -K 8 -l: 30
+after balance -l: 30
+after resub -K 8 -N 2 -l: 30
+after rewrite -l: 30
+after resub -K 10 -l: 30
+after rewrite -z -l: 30
+after resub -K 10 -N 2 -l: 30
+after balance -l: 30
+after resub -K 12 -l: 30
+after refactor -z -l: 30
+after resub -K 12 -N 2 -l: 30
+after balance -l: 30
+after rewrite -z -l: 30
+after balance -l: 30
+after dc2: 30
+after write_aiger -s knor.90ufIW: 30
+size of AIG after compression: 30 gates.
+[1;37mfinished compression in 0.026368 sec.[m
+final size of AIG: 30 gates.
+[1;37mtotal time was 0.030394 sec.[m

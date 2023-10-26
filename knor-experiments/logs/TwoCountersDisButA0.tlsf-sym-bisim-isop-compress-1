@@ -1,0 +1,12 @@
+[1;37mfinished parsing automaton in 0.014403 sec.[m
+automaton has 11 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.013504 sec.[m
+[1;37mfinished solving game in 0.000490 sec.[m
+[1;37mtotal time was 0.029135 sec.[m

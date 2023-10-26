@@ -1,0 +1,10 @@
+[1;37mfinished parsing automaton in 0.000933 sec.[m
+automaton has 21 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001426 sec.[m
+[1;37mfinished solving game in 0.002728 sec.[m
+after reachability: 14 states.
+[1;37mfinished post processing in 0.000301 sec.[m
+[1;37mfinished encoding in 0.000608 sec.[m
+final size of AIG: 278 gates.
+[1;37mtotal time was 0.007974 sec.[m

@@ -1,0 +1,55 @@
+[1;37mfinished parsing automaton in 0.006518 sec.[m
+automaton has 19 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.008956 sec.[m
+constructed game has 314 vertices and 828 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 6 iterations.
+preprocessing took 0.000016 sec.
+solving took 0.000025 sec.
+[1;37mfinished solving game in 0.000075 sec.[m
+after reachability: 17 states.
+[1;37mfinished post processing in 0.000497 sec.[m
+starting garbage collection...
+garbage collection finished.
+after bisimulation minimisation: 16 blocks.
+[1;37mfinished bisimulation minimisation in 0.001448 sec.[m
+[1;37mfinished encoding in 0.001322 sec.[m
+size of AIG before drw+drf: 637 gates.
+after read_aiger knor.2PyCPD: 637
+after drw: 626
+after balance: 570
+after drf: 568
+after dc2: 434
+after drw: 421
+after balance: 421
+after drf: 421
+after dc2: 387
+after drw: 383
+after balance: 383
+after drf: 383
+after dc2: 369
+after drw: 367
+after balance: 367
+after drf: 366
+after dc2: 357
+after drw: 356
+after balance: 356
+after drf: 356
+after dc2: 353
+after drw: 353
+after balance: 353
+after drf: 353
+after dc2: 351
+after write_aiger -s knor.Bz63eE: 351
+size of AIG after drw+drf: 351 gates.
+[1;37mfinished drw+drf in 0.069080 sec.[m
+final size of AIG: 351 gates.
+[1;37mtotal time was 0.088820 sec.[m

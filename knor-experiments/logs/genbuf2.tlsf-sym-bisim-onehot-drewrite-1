@@ -1,0 +1,57 @@
+[1;37mfinished parsing automaton in 0.361540 sec.[m
+automaton has 7284 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.455314 sec.[m
+[1;37mfinished solving game in 2.125945 sec.[m
+starting garbage collection...
+garbage collection finished.
+after reachability: 881 states.
+[1;37mfinished post processing in 0.029801 sec.[m
+after bisimulation minimisation: 668 blocks.
+[1;37mfinished bisimulation minimisation in 0.011192 sec.[m
+[1;37mfinished encoding in 0.104089 sec.[m
+size of AIG before drw+drf: 6456 gates.
+after read_aiger knor.ynZ416: 6456
+after drw: 6010
+after balance: 5884
+after drf: 5845
+after dc2: 5527
+after drw: 5500
+after balance: 5480
+after drf: 5463
+after dc2: 5346
+after drw: 5329
+after balance: 5320
+after drf: 5309
+after dc2: 5260
+after drw: 5251
+after balance: 5241
+after drf: 5237
+after dc2: 5201
+after drw: 5191
+after balance: 5182
+after drf: 5177
+after dc2: 5143
+after drw: 5134
+after balance: 5130
+after drf: 5127
+after dc2: 5108
+after write_aiger -s knor.42bJYp: 5108
+size of AIG after drw+drf: 5108 gates.
+[1;37mfinished drw+drf in 0.686703 sec.[m
+final size of AIG: 5108 gates.
+[1;37mtotal time was 3.775467 sec.[m

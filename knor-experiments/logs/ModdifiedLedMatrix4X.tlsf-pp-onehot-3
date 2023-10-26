@@ -1,0 +1,28 @@
+[1;37mfinished parsing automaton in 1.022220 sec.[m
+automaton has 77 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 1.242679 sec.[m
+constructed game has 294 vertices and 1206 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using priority promotion NPP
+solved with 1 total queries and 0 total promotions;
+            1 max queries and 0 max promotions;
+            1 dominions.
+preprocessing took 0.000021 sec.
+solving took 0.000050 sec.
+[1;37mfinished solving game in 0.000115 sec.[m
+[1;37mtotal time was 2.265677 sec.[m

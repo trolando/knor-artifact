@@ -1,0 +1,66 @@
+[1;37mfinished parsing automaton in 0.185301 sec.[m
+automaton has 2249 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.291467 sec.[m
+constructed game has 47717 vertices and 294482 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 4 major iterations, 11 minor iterations.
+preprocessing took 0.001090 sec.
+solving took 0.011197 sec.
+[1;37mfinished solving game in 0.014979 sec.[m
+after reachability: 703 states.
+[1;37mfinished post processing in 0.014757 sec.[m
+after bisimulation minimisation: 338 blocks.
+[1;37mfinished bisimulation minimisation in 0.008913 sec.[m
+isop has 17 terms and 86 nodes.
+isop has 19 terms and 101 nodes.
+isop has 20 terms and 95 nodes.
+isop has 25 terms and 124 nodes.
+isop has 27 terms and 124 nodes.
+isop has 29 terms and 118 nodes.
+isop has 35 terms and 112 nodes.
+isop has 1080 terms and 2195 nodes.
+isop has 2100 terms and 4704 nodes.
+isop has 3235 terms and 6673 nodes.
+isop has 2620 terms and 5669 nodes.
+starting garbage collection...
+garbage collection finished.
+isop has 2252 terms and 4994 nodes.
+isop has 2174 terms and 4892 nodes.
+isop has 2479 terms and 5478 nodes.
+isop has 2453 terms and 5460 nodes.
+isop has 2470 terms and 5460 nodes.
+[1;37mfinished encoding in 0.133596 sec.[m
+size of AIG before drw+drf: 48012 gates.
+after read_aiger knor.xFvRKX: 48012
+after drw: 40221
+after balance: 40035
+after drf: 40018
+after dc2: 39280
+after drw: 39169
+after balance: 39162
+after drf: 39147
+after dc2: 38985
+after write_aiger -s knor.lipI6D: 38985
+size of AIG after drw+drf: 38985 gates.
+[1;37mfinished drw+drf in 2.487684 sec.[m
+final size of AIG: 38985 gates.
+[1;37mtotal time was 3.297345 sec.[m

@@ -1,0 +1,102 @@
+[1;37mfinished parsing automaton in 0.015020 sec.[m
+automaton has 89 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.032247 sec.[m
+[1;37mfinished solving game in 0.034140 sec.[m
+after reachability: 87 states.
+[1;37mfinished post processing in 0.002566 sec.[m
+after bisimulation minimisation: 57 blocks.
+[1;37mfinished bisimulation minimisation in 0.000937 sec.[m
+isop has 7 terms and 27 nodes.
+isop has 6 terms and 26 nodes.
+isop has 6 terms and 28 nodes.
+isop has 6 terms and 21 nodes.
+isop has 7 terms and 27 nodes.
+isop has 12 terms and 46 nodes.
+isop has 12 terms and 48 nodes.
+isop has 50 terms and 107 nodes.
+isop has 30 terms and 88 nodes.
+isop has 168 terms and 488 nodes.
+isop has 128 terms and 390 nodes.
+isop has 196 terms and 559 nodes.
+isop has 214 terms and 586 nodes.
+isop has 186 terms and 541 nodes.
+isop has 175 terms and 470 nodes.
+[1;37mfinished encoding in 0.005875 sec.[m
+size of AIG before compression: 3495 gates.
+after read_aiger knor.s0TNOn: 3495
+after balance -l: 2888
+after resub -K 6 -l: 2791
+after rewrite -l: 2763
+after resub -K 6 -N 2: 2713
+after refactor -l: 2706
+after resub -K 8 -l: 2699
+after balance -l: 2698
+after resub -K 8 -N 2 -l: 2688
+after rewrite -l: 2686
+after resub -K 10 -l: 2685
+after rewrite -z -l: 2664
+after resub -K 10 -N 2 -l: 2637
+after balance -l: 2634
+after resub -K 12 -l: 2632
+after refactor -z -l: 2631
+after resub -K 12 -N 2 -l: 2623
+after balance -l: 2621
+after rewrite -z -l: 2618
+after balance -l: 2616
+after dc2: 2572
+after balance -l: 2565
+after resub -K 6 -l: 2545
+after rewrite -l: 2544
+after resub -K 6 -N 2: 2540
+after refactor -l: 2540
+after resub -K 8 -l: 2538
+after balance -l: 2538
+after resub -K 8 -N 2 -l: 2532
+after rewrite -l: 2532
+after resub -K 10 -l: 2532
+after rewrite -z -l: 2530
+after resub -K 10 -N 2 -l: 2522
+after balance -l: 2522
+after resub -K 12 -l: 2521
+after refactor -z -l: 2521
+after resub -K 12 -N 2 -l: 2515
+after balance -l: 2514
+after rewrite -z -l: 2513
+after balance -l: 2512
+after dc2: 2506
+after balance -l: 2504
+after resub -K 6 -l: 2496
+after rewrite -l: 2496
+after resub -K 6 -N 2: 2494
+after refactor -l: 2494
+after resub -K 8 -l: 2492
+after balance -l: 2492
+after resub -K 8 -N 2 -l: 2486
+after rewrite -l: 2486
+after resub -K 10 -l: 2486
+after rewrite -z -l: 2486
+after resub -K 10 -N 2 -l: 2484
+after balance -l: 2484
+after resub -K 12 -l: 2484
+after refactor -z -l: 2484
+after resub -K 12 -N 2 -l: 2482
+after balance -l: 2482
+after rewrite -z -l: 2480
+after balance -l: 2480
+after dc2: 2470
+after write_aiger -s knor.vBKtFL: 2470
+size of AIG after compression: 2470 gates.
+[1;37mfinished compression in 1.428901 sec.[m
+final size of AIG: 2470 gates.
+[1;37mtotal time was 1.520403 sec.[m

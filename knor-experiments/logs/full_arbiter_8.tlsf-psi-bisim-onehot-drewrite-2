@@ -1,0 +1,52 @@
+[1;37mfinished parsing automaton in 0.808500 sec.[m
+automaton has 5642 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 1.874477 sec.[m
+constructed game has 177690 vertices and 1217102 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 5 major iterations, 15 minor iterations.
+preprocessing took 0.004066 sec.
+solving took 0.063015 sec.
+[1;37mfinished solving game in 0.078214 sec.[m
+after reachability: 1540 states.
+[1;37mfinished post processing in 0.075307 sec.[m
+after bisimulation minimisation: 718 blocks.
+[1;37mfinished bisimulation minimisation in 0.041968 sec.[m
+[1;37mfinished encoding in 0.243805 sec.[m
+size of AIG before drw+drf: 43319 gates.
+after read_aiger knor.9n1HAG: 43319
+after drw: 43051
+after balance: 42986
+after drf: 42984
+after dc2: 42374
+after drw: 42322
+after balance: 42312
+after drf: 42186
+after dc2: 41988
+after write_aiger -s knor.BoAEGn: 41988
+size of AIG after drw+drf: 41988 gates.
+[1;37mfinished drw+drf in 2.021777 sec.[m
+final size of AIG: 41988 gates.
+[1;37mtotal time was 5.966945 sec.[m

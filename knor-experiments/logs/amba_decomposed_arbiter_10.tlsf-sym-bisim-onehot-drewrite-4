@@ -1,0 +1,67 @@
+[1;37mfinished parsing automaton in 0.066314 sec.[m
+automaton has 185 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.482301 sec.[m
+[1;37mfinished solving game in 0.751299 sec.[m
+after reachability: 183 states.
+[1;37mfinished post processing in 0.039398 sec.[m
+after bisimulation minimisation: 111 blocks.
+[1;37mfinished bisimulation minimisation in 0.004714 sec.[m
+[1;37mfinished encoding in 0.018673 sec.[m
+size of AIG before drw+drf: 3820 gates.
+after read_aiger knor.4vKDun: 3820
+after drw: 2925
+after balance: 2807
+after drf: 2430
+after dc2: 1871
+after drw: 1831
+after balance: 1823
+after drf: 1809
+after dc2: 1696
+after drw: 1681
+after balance: 1680
+after drf: 1675
+after dc2: 1602
+after drw: 1590
+after balance: 1589
+after drf: 1582
+after dc2: 1544
+after drw: 1535
+after balance: 1535
+after drf: 1530
+after dc2: 1510
+after drw: 1506
+after balance: 1504
+after drf: 1503
+after dc2: 1484
+after drw: 1483
+after balance: 1483
+after drf: 1482
+after dc2: 1469
+after drw: 1467
+after balance: 1467
+after drf: 1466
+after dc2: 1459
+after write_aiger -s knor.1sOIuR: 1459
+size of AIG after drw+drf: 1459 gates.
+[1;37mfinished drw+drf in 0.297863 sec.[m
+final size of AIG: 1459 gates.
+[1;37mtotal time was 1.661345 sec.[m

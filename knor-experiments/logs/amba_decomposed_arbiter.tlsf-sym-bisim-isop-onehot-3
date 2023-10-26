@@ -1,0 +1,20 @@
+[1;37mfinished parsing automaton in 0.029155 sec.[m
+automaton has 195 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.017023 sec.[m
+[1;37mfinished solving game in 0.020682 sec.[m
+after reachability: 63 states.
+[1;37mfinished post processing in 0.001356 sec.[m
+starting garbage collection...
+garbage collection finished.
+after bisimulation minimisation: 42 blocks.
+[1;37mfinished bisimulation minimisation in 0.001365 sec.[m
+[1;37mfinished encoding in 0.001445 sec.[m
+final size of AIG: 629 gates.
+[1;37mtotal time was 0.071675 sec.[m

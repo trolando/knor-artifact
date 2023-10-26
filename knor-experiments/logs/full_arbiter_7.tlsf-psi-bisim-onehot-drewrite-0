@@ -1,0 +1,112 @@
+[1;37mfinished parsing automaton in 0.188152 sec.[m
+automaton has 2249 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.296130 sec.[m
+constructed game has 47717 vertices and 294482 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 4 major iterations, 11 minor iterations.
+preprocessing took 0.001073 sec.
+solving took 0.011331 sec.
+[1;37mfinished solving game in 0.014838 sec.[m
+after reachability: 703 states.
+[1;37mfinished post processing in 0.014984 sec.[m
+after bisimulation minimisation: 338 blocks.
+[1;37mfinished bisimulation minimisation in 0.009077 sec.[m
+[1;37mfinished encoding in 0.045425 sec.[m
+size of AIG before drw+drf: 13593 gates.
+after read_aiger knor.TgmaYY: 13593
+after drw: 13480
+after balance: 13450
+after drf: 13446
+after dc2: 13187
+after drw: 13155
+after balance: 13152
+after drf: 13071
+after dc2: 12941
+after drw: 12926
+after balance: 12923
+after drf: 12829
+after dc2: 12672
+after drw: 12661
+after balance: 12660
+after drf: 12578
+after dc2: 12408
+after drw: 12384
+after balance: 12383
+after drf: 12277
+after dc2: 12113
+after drw: 12078
+after balance: 12078
+after drf: 11962
+after dc2: 11783
+after drw: 11756
+after balance: 11754
+after drf: 11652
+after dc2: 11467
+after drw: 11449
+after balance: 11446
+after drf: 11332
+after dc2: 11157
+after drw: 11134
+after balance: 11132
+after drf: 11040
+after dc2: 10888
+after drw: 10866
+after balance: 10865
+after drf: 10779
+after dc2: 10590
+after drw: 10562
+after balance: 10558
+after drf: 10474
+after dc2: 10358
+after drw: 10330
+after balance: 10328
+after drf: 10251
+after dc2: 10122
+after drw: 10114
+after balance: 10112
+after drf: 10043
+after dc2: 9933
+after drw: 9903
+after balance: 9903
+after drf: 9848
+after dc2: 9734
+after drw: 9722
+after balance: 9717
+after drf: 9687
+after dc2: 9597
+after drw: 9579
+after balance: 9579
+after drf: 9557
+after dc2: 9468
+after drw: 9462
+after balance: 9461
+after drf: 9428
+after dc2: 9374
+after drw: 9368
+after balance: 9368
+after drf: 9341
+after dc2: 9302
+after write_aiger -s knor.b8q7GH: 9302
+size of AIG after drw+drf: 9302 gates.
+[1;37mfinished drw+drf in 4.782666 sec.[m
+final size of AIG: 9302 gates.
+[1;37mtotal time was 5.512226 sec.[m

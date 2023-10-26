@@ -1,0 +1,64 @@
+[1;37mfinished parsing automaton in 0.015392 sec.[m
+automaton has 89 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.041884 sec.[m
+constructed game has 6605 vertices and 69781 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 3 dominions and 42 tangles.
+solved in 3 iterations.
+preprocessing took 0.000189 sec.
+solving took 0.000457 sec.
+[1;37mfinished solving game in 0.001021 sec.[m
+after reachability: 88 states.
+[1;37mfinished post processing in 0.002943 sec.[m
+after bisimulation minimisation: 77 blocks.
+[1;37mfinished bisimulation minimisation in 0.001296 sec.[m
+isop has 17 terms and 82 nodes.
+isop has 54 terms and 169 nodes.
+isop has 78 terms and 247 nodes.
+isop has 10 terms and 39 nodes.
+isop has 106 terms and 246 nodes.
+isop has 19 terms and 93 nodes.
+isop has 49 terms and 181 nodes.
+isop has 166 terms and 403 nodes.
+isop has 230 terms and 616 nodes.
+isop has 136 terms and 407 nodes.
+isop has 378 terms and 981 nodes.
+isop has 354 terms and 900 nodes.
+isop has 508 terms and 1208 nodes.
+isop has 490 terms and 1244 nodes.
+isop has 401 terms and 963 nodes.
+isop has 476 terms and 1142 nodes.
+[1;37mfinished encoding in 0.018051 sec.[m
+size of AIG before drw+drf: 9105 gates.
+after read_aiger knor.fhx20L: 9105
+after drw: 7588
+after balance: 7368
+after drf: 7354
+after dc2: 7068
+after drw: 7019
+after balance: 7017
+after drf: 7013
+after dc2: 6948
+after drw: 6934
+after balance: 6932
+after drf: 6931
+after dc2: 6889
+after write_aiger -s knor.0dUiEa: 6889
+size of AIG after drw+drf: 6889 gates.
+[1;37mfinished drw+drf in 0.625391 sec.[m
+final size of AIG: 6889 gates.
+[1;37mtotal time was 0.743234 sec.[m

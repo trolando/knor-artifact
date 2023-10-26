@@ -1,0 +1,65 @@
+[1;37mfinished parsing automaton in 0.000248 sec.[m
+automaton has 4 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.000894 sec.[m
+constructed game has 17 vertices and 33 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 4 iterations.
+preprocessing took 0.000048 sec.
+solving took 0.000071 sec.
+[1;37mfinished solving game in 0.000216 sec.[m
+after reachability: 2 states.
+[1;37mfinished post processing in 0.000169 sec.[m
+after bisimulation minimisation: 2 blocks.
+[1;37mfinished bisimulation minimisation in 0.000187 sec.[m
+[1;37mfinished encoding in 0.000346 sec.[m
+size of AIG before compression: 23 gates.
+after read_aiger knor.WFb6CC: 23
+after balance -l: 23
+after resub -K 6 -l: 18
+after rewrite -l: 18
+after resub -K 6 -N 2: 13
+after refactor -l: 13
+after resub -K 8 -l: 13
+after balance -l: 13
+after resub -K 8 -N 2 -l: 13
+after rewrite -l: 13
+after resub -K 10 -l: 13
+after rewrite -z -l: 13
+after resub -K 10 -N 2 -l: 13
+after balance -l: 13
+after resub -K 12 -l: 13
+after refactor -z -l: 13
+after resub -K 12 -N 2 -l: 13
+after balance -l: 13
+after rewrite -z -l: 13
+after balance -l: 13
+after dc2: 13
+after balance -l: 13
+after resub -K 6 -l: 13
+after rewrite -l: 13
+after resub -K 6 -N 2: 13
+after refactor -l: 13
+after resub -K 8 -l: 13
+after balance -l: 13
+after resub -K 8 -N 2 -l: 13
+after rewrite -l: 13
+after resub -K 10 -l: 13
+after rewrite -z -l: 13
+after resub -K 10 -N 2 -l: 13
+after balance -l: 13
+after resub -K 12 -l: 13
+after refactor -z -l: 13
+after resub -K 12 -N 2 -l: 13
+after balance -l: 13
+after rewrite -z -l: 13
+after balance -l: 13
+after dc2: 13
+after write_aiger -s knor.RyexRu: 13
+size of AIG after compression: 13 gates.
+[1;37mfinished compression in 0.023151 sec.[m
+final size of AIG: 13 gates.
+[1;37mtotal time was 0.027851 sec.[m

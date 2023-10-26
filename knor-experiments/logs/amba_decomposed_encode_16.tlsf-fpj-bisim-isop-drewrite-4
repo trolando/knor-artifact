@@ -1,0 +1,60 @@
+[1;37mfinished parsing automaton in 0.007108 sec.[m
+automaton has 19 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.008930 sec.[m
+constructed game has 330 vertices and 875 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 5 iterations.
+preprocessing took 0.000017 sec.
+solving took 0.000024 sec.
+[1;37mfinished solving game in 0.000074 sec.[m
+after reachability: 18 states.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished post processing in 0.001194 sec.[m
+after bisimulation minimisation: 18 blocks.
+[1;37mfinished bisimulation minimisation in 0.000678 sec.[m
+isop has 80 terms and 58 nodes.
+isop has 96 terms and 110 nodes.
+isop has 96 terms and 106 nodes.
+isop has 80 terms and 62 nodes.
+isop has 24 terms and 96 nodes.
+isop has 40 terms and 105 nodes.
+isop has 259 terms and 75 nodes.
+isop has 40 terms and 107 nodes.
+isop has 75 terms and 113 nodes.
+[1;37mfinished encoding in 0.000887 sec.[m
+size of AIG before drw+drf: 464 gates.
+after read_aiger knor.a5RTXI: 464
+after drw: 441
+after balance: 421
+after drf: 417
+after dc2: 368
+after drw: 361
+after balance: 361
+after drf: 361
+after dc2: 351
+after drw: 351
+after balance: 351
+after drf: 351
+after dc2: 347
+after drw: 347
+after balance: 347
+after drf: 347
+after dc2: 344
+after drw: 344
+after balance: 344
+after drf: 344
+after dc2: 342
+after write_aiger -s knor.mu2nwZ: 342
+size of AIG after drw+drf: 342 gates.
+[1;37mfinished drw+drf in 0.057317 sec.[m
+final size of AIG: 342 gates.
+[1;37mtotal time was 0.077185 sec.[m

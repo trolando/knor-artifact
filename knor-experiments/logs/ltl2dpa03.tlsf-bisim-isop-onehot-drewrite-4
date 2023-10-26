@@ -1,0 +1,66 @@
+[1;37mfinished parsing automaton in 0.007242 sec.[m
+automaton has 199 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.006948 sec.[m
+constructed game has 1165 vertices and 3987 edges.
+parity game renumbered (6 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 3 dominions and 76 tangles.
+solved in 8 iterations.
+preprocessing took 0.000030 sec.
+solving took 0.000294 sec.
+[1;37mfinished solving game in 0.000389 sec.[m
+after reachability: 75 states.
+[1;37mfinished post processing in 0.000413 sec.[m
+starting garbage collection...
+garbage collection finished.
+after bisimulation minimisation: 46 blocks.
+[1;37mfinished bisimulation minimisation in 0.000838 sec.[m
+[1;37mfinished encoding in 0.000928 sec.[m
+size of AIG before drw+drf: 435 gates.
+after read_aiger knor.OAB7XN: 435
+after drw: 396
+after balance: 389
+after drf: 384
+after dc2: 356
+after drw: 353
+after balance: 350
+after drf: 347
+after dc2: 339
+after drw: 338
+after balance: 338
+after drf: 334
+after dc2: 331
+after drw: 331
+after balance: 330
+after drf: 330
+after dc2: 327
+after drw: 324
+after balance: 324
+after drf: 322
+after dc2: 319
+after drw: 319
+after balance: 319
+after drf: 319
+after dc2: 314
+after drw: 313
+after balance: 312
+after drf: 311
+after dc2: 306
+after drw: 306
+after balance: 305
+after drf: 304
+after dc2: 300
+after drw: 300
+after balance: 300
+after drf: 300
+after dc2: 299
+after write_aiger -s knor.nNGH9u: 299
+size of AIG after drw+drf: 299 gates.
+[1;37mfinished drw+drf in 0.072716 sec.[m
+final size of AIG: 299 gates.
+[1;37mtotal time was 0.091332 sec.[m

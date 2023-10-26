@@ -1,0 +1,180 @@
+[1;37mfinished parsing automaton in 0.180700 sec.[m
+automaton has 2249 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.310473 sec.[m
+constructed game has 47717 vertices and 294482 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 2 dominions and 0 tangles.
+solved in 2 iterations.
+preprocessing took 0.001066 sec.
+solving took 0.001929 sec.
+[1;37mfinished solving game in 0.005424 sec.[m
+after reachability: 1093 states.
+[1;37mfinished post processing in 0.021536 sec.[m
+after bisimulation minimisation: 522 blocks.
+[1;37mfinished bisimulation minimisation in 0.015548 sec.[m
+[1;37mfinished encoding in 0.127892 sec.[m
+size of AIG before compression: 20492 gates.
+after read_aiger knor.kQqqy6: 20492
+after balance -l: 20262
+after resub -K 6 -l: 19721
+after rewrite -l: 19616
+after resub -K 6 -N 2: 19516
+after refactor -l: 19489
+after resub -K 8 -l: 19434
+after balance -l: 19422
+after resub -K 8 -N 2 -l: 19364
+after rewrite -l: 19350
+after resub -K 10 -l: 19346
+after rewrite -z -l: 19263
+after resub -K 10 -N 2 -l: 19155
+after balance -l: 19129
+after resub -K 12 -l: 19094
+after refactor -z -l: 19048
+after resub -K 12 -N 2 -l: 18993
+after balance -l: 18986
+after rewrite -z -l: 18950
+after balance -l: 18942
+after dc2: 18716
+after balance -l: 18712
+after resub -K 6 -l: 18689
+after rewrite -l: 18668
+after resub -K 6 -N 2: 18656
+after refactor -l: 18626
+after resub -K 8 -l: 18571
+after balance -l: 18570
+after resub -K 8 -N 2 -l: 18538
+after rewrite -l: 18534
+after resub -K 10 -l: 18508
+after rewrite -z -l: 18500
+after resub -K 10 -N 2 -l: 18447
+after balance -l: 18446
+after resub -K 12 -l: 18392
+after refactor -z -l: 18349
+after resub -K 12 -N 2 -l: 18289
+after balance -l: 18287
+after rewrite -z -l: 18264
+after balance -l: 18261
+after dc2: 18070
+after balance -l: 18064
+after resub -K 6 -l: 18043
+after rewrite -l: 18025
+after resub -K 6 -N 2: 18016
+after refactor -l: 17977
+after resub -K 8 -l: 17932
+after balance -l: 17930
+after resub -K 8 -N 2 -l: 17881
+after rewrite -l: 17876
+after resub -K 10 -l: 17851
+after rewrite -z -l: 17832
+after resub -K 10 -N 2 -l: 17786
+after balance -l: 17785
+after resub -K 12 -l: 17728
+after refactor -z -l: 17679
+after resub -K 12 -N 2 -l: 17589
+after balance -l: 17584
+after rewrite -z -l: 17556
+after balance -l: 17552
+after dc2: 17361
+after balance -l: 17354
+after resub -K 6 -l: 17338
+after rewrite -l: 17319
+after resub -K 6 -N 2: 17314
+after refactor -l: 17280
+after resub -K 8 -l: 17254
+after balance -l: 17252
+after resub -K 8 -N 2 -l: 17214
+after rewrite -l: 17208
+after resub -K 10 -l: 17197
+after rewrite -z -l: 17182
+after resub -K 10 -N 2 -l: 17153
+after balance -l: 17152
+after resub -K 12 -l: 17115
+after refactor -z -l: 17061
+after resub -K 12 -N 2 -l: 17004
+after balance -l: 16999
+after rewrite -z -l: 16986
+after balance -l: 16984
+after dc2: 16818
+after balance -l: 16805
+after resub -K 6 -l: 16778
+after rewrite -l: 16767
+after resub -K 6 -N 2: 16758
+after refactor -l: 16716
+after resub -K 8 -l: 16698
+after balance -l: 16693
+after resub -K 8 -N 2 -l: 16664
+after rewrite -l: 16655
+after resub -K 10 -l: 16647
+after rewrite -z -l: 16642
+after resub -K 10 -N 2 -l: 16610
+after balance -l: 16609
+after resub -K 12 -l: 16561
+after refactor -z -l: 16528
+after resub -K 12 -N 2 -l: 16473
+after balance -l: 16471
+after rewrite -z -l: 16459
+after balance -l: 16458
+after dc2: 16315
+after balance -l: 16310
+after resub -K 6 -l: 16298
+after rewrite -l: 16287
+after resub -K 6 -N 2: 16275
+after refactor -l: 16236
+after resub -K 8 -l: 16226
+after balance -l: 16226
+after resub -K 8 -N 2 -l: 16190
+after rewrite -l: 16190
+after resub -K 10 -l: 16170
+after rewrite -z -l: 16151
+after resub -K 10 -N 2 -l: 16114
+after balance -l: 16114
+after resub -K 12 -l: 16095
+after refactor -z -l: 16069
+after resub -K 12 -N 2 -l: 16037
+after balance -l: 16035
+after rewrite -z -l: 16022
+after balance -l: 16021
+after dc2: 15875
+after balance -l: 15873
+after resub -K 6 -l: 15855
+after rewrite -l: 15846
+after resub -K 6 -N 2: 15838
+after refactor -l: 15821
+after resub -K 8 -l: 15811
+after balance -l: 15808
+after resub -K 8 -N 2 -l: 15799
+after rewrite -l: 15799
+after resub -K 10 -l: 15788
+after rewrite -z -l: 15779
+after resub -K 10 -N 2 -l: 15750
+after balance -l: 15750
+after resub -K 12 -l: 15741
+after refactor -z -l: 15707
+after resub -K 12 -N 2 -l: 15666
+after balance -l: 15665
+after rewrite -z -l: 15648
+after balance -l: 15647
+after dc2: 15500
+after write_aiger -s knor.ymTnsR: 15500
+size of AIG after compression: 15500 gates.
+[1;37mfinished compression in 14.367629 sec.[m
+final size of AIG: 15500 gates.
+[1;37mtotal time was 15.184251 sec.[m

@@ -1,0 +1,147 @@
+[1;37mfinished parsing automaton in 0.025788 sec.[m
+automaton has 67 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.036197 sec.[m
+[1;37mfinished solving game in 0.019106 sec.[m
+after reachability: 11 states.
+[1;37mfinished post processing in 0.000402 sec.[m
+after bisimulation minimisation: 11 blocks.
+[1;37mfinished bisimulation minimisation in 0.000229 sec.[m
+[1;37mfinished encoding in 0.000539 sec.[m
+size of AIG before compression: 545 gates.
+after read_aiger knor.IPuwBq: 545
+after balance -l: 400
+after resub -K 6 -l: 361
+after rewrite -l: 353
+after resub -K 6 -N 2: 341
+after refactor -l: 338
+after resub -K 8 -l: 321
+after balance -l: 318
+after resub -K 8 -N 2 -l: 306
+after rewrite -l: 301
+after resub -K 10 -l: 293
+after rewrite -z -l: 289
+after resub -K 10 -N 2 -l: 280
+after balance -l: 278
+after resub -K 12 -l: 278
+after refactor -z -l: 271
+after resub -K 12 -N 2 -l: 261
+after balance -l: 261
+after rewrite -z -l: 261
+after balance -l: 260
+after dc2: 251
+after balance -l: 251
+after resub -K 6 -l: 249
+after rewrite -l: 249
+after resub -K 6 -N 2: 248
+after refactor -l: 247
+after resub -K 8 -l: 243
+after balance -l: 243
+after resub -K 8 -N 2 -l: 241
+after rewrite -l: 241
+after resub -K 10 -l: 241
+after rewrite -z -l: 241
+after resub -K 10 -N 2 -l: 238
+after balance -l: 238
+after resub -K 12 -l: 238
+after refactor -z -l: 238
+after resub -K 12 -N 2 -l: 236
+after balance -l: 236
+after rewrite -z -l: 236
+after balance -l: 236
+after dc2: 235
+after balance -l: 235
+after resub -K 6 -l: 235
+after rewrite -l: 233
+after resub -K 6 -N 2: 232
+after refactor -l: 232
+after resub -K 8 -l: 231
+after balance -l: 231
+after resub -K 8 -N 2 -l: 231
+after rewrite -l: 231
+after resub -K 10 -l: 231
+after rewrite -z -l: 230
+after resub -K 10 -N 2 -l: 230
+after balance -l: 230
+after resub -K 12 -l: 230
+after refactor -z -l: 230
+after resub -K 12 -N 2 -l: 228
+after balance -l: 228
+after rewrite -z -l: 228
+after balance -l: 228
+after dc2: 228
+after balance -l: 228
+after resub -K 6 -l: 228
+after rewrite -l: 228
+after resub -K 6 -N 2: 227
+after refactor -l: 227
+after resub -K 8 -l: 227
+after balance -l: 227
+after resub -K 8 -N 2 -l: 227
+after rewrite -l: 227
+after resub -K 10 -l: 227
+after rewrite -z -l: 227
+after resub -K 10 -N 2 -l: 223
+after balance -l: 223
+after resub -K 12 -l: 222
+after refactor -z -l: 222
+after resub -K 12 -N 2 -l: 222
+after balance -l: 222
+after rewrite -z -l: 222
+after balance -l: 222
+after dc2: 222
+after balance -l: 222
+after resub -K 6 -l: 222
+after rewrite -l: 222
+after resub -K 6 -N 2: 221
+after refactor -l: 221
+after resub -K 8 -l: 221
+after balance -l: 221
+after resub -K 8 -N 2 -l: 218
+after rewrite -l: 218
+after resub -K 10 -l: 218
+after rewrite -z -l: 218
+after resub -K 10 -N 2 -l: 218
+after balance -l: 218
+after resub -K 12 -l: 218
+after refactor -z -l: 218
+after resub -K 12 -N 2 -l: 218
+after balance -l: 218
+after rewrite -z -l: 218
+after balance -l: 218
+after dc2: 217
+after balance -l: 217
+after resub -K 6 -l: 216
+after rewrite -l: 216
+after resub -K 6 -N 2: 216
+after refactor -l: 216
+after resub -K 8 -l: 216
+after balance -l: 216
+after resub -K 8 -N 2 -l: 216
+after rewrite -l: 216
+after resub -K 10 -l: 216
+after rewrite -z -l: 216
+after resub -K 10 -N 2 -l: 216
+after balance -l: 216
+after resub -K 12 -l: 216
+after refactor -z -l: 216
+after resub -K 12 -N 2 -l: 215
+after balance -l: 215
+after rewrite -z -l: 215
+after balance -l: 215
+after dc2: 215
+after write_aiger -s knor.5SqLfa: 215
+size of AIG after compression: 215 gates.
+[1;37mfinished compression in 0.156984 sec.[m
+final size of AIG: 215 gates.
+[1;37mtotal time was 0.239906 sec.[m

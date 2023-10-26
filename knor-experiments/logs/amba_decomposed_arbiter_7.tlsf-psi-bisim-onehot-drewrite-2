@@ -1,0 +1,72 @@
+[1;37mfinished parsing automaton in 0.014946 sec.[m
+automaton has 89 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.042421 sec.[m
+constructed game has 6605 vertices and 69781 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 6 major iterations, 11 minor iterations.
+preprocessing took 0.000185 sec.
+solving took 0.002007 sec.
+[1;37mfinished solving game in 0.002540 sec.[m
+after reachability: 87 states.
+[1;37mfinished post processing in 0.002370 sec.[m
+after bisimulation minimisation: 69 blocks.
+[1;37mfinished bisimulation minimisation in 0.001389 sec.[m
+[1;37mfinished encoding in 0.005690 sec.[m
+size of AIG before drw+drf: 3557 gates.
+after read_aiger knor.iTdbfg: 3557
+after drw: 2977
+after balance: 2797
+after drf: 2681
+after dc2: 2298
+after drw: 2258
+after balance: 2254
+after drf: 2228
+after dc2: 2115
+after drw: 2103
+after balance: 2101
+after drf: 2086
+after dc2: 1992
+after drw: 1983
+after balance: 1982
+after drf: 1967
+after dc2: 1928
+after drw: 1921
+after balance: 1921
+after drf: 1905
+after dc2: 1872
+after drw: 1867
+after balance: 1864
+after drf: 1860
+after dc2: 1825
+after drw: 1821
+after balance: 1820
+after drf: 1817
+after dc2: 1806
+after drw: 1805
+after balance: 1805
+after drf: 1798
+after dc2: 1778
+after drw: 1774
+after balance: 1774
+after drf: 1772
+after dc2: 1762
+after write_aiger -s knor.HRJfS7: 1762
+size of AIG after drw+drf: 1762 gates.
+[1;37mfinished drw+drf in 0.449800 sec.[m
+final size of AIG: 1762 gates.
+[1;37mtotal time was 0.560145 sec.[m

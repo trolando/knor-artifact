@@ -1,0 +1,71 @@
+[1;37mfinished parsing automaton in 0.000394 sec.[m
+automaton has 22 states.
+priorities are on transitions
+[1;37mfinished constructing game in 0.001200 sec.[m
+constructed game has 86 vertices and 174 edges.
+parity game renumbered (4 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using tangle learning
+found 1 dominions and 0 tangles.
+solved in 1 iterations.
+preprocessing took 0.000055 sec.
+solving took 0.000142 sec.
+[1;37mfinished solving game in 0.000313 sec.[m
+after reachability: 12 states.
+[1;37mfinished post processing in 0.000203 sec.[m
+after bisimulation minimisation: 12 blocks.
+[1;37mfinished bisimulation minimisation in 0.000453 sec.[m
+isop has 1 terms and 5 nodes.
+isop has 11 terms and 33 nodes.
+isop has 10 terms and 25 nodes.
+isop has 12 terms and 28 nodes.
+isop has 15 terms and 27 nodes.
+[1;37mfinished encoding in 0.000873 sec.[m
+size of AIG before compression: 121 gates.
+after read_aiger knor.iQLkrl: 121
+after balance -l: 112
+after resub -K 6 -l: 107
+after rewrite -l: 102
+after resub -K 6 -N 2: 99
+after refactor -l: 99
+after resub -K 8 -l: 99
+after balance -l: 99
+after resub -K 8 -N 2 -l: 95
+after rewrite -l: 94
+after resub -K 10 -l: 94
+after rewrite -z -l: 94
+after resub -K 10 -N 2 -l: 93
+after balance -l: 93
+after resub -K 12 -l: 93
+after refactor -z -l: 93
+after resub -K 12 -N 2 -l: 93
+after balance -l: 93
+after rewrite -z -l: 93
+after balance -l: 93
+after dc2: 90
+after balance -l: 90
+after resub -K 6 -l: 90
+after rewrite -l: 90
+after resub -K 6 -N 2: 90
+after refactor -l: 90
+after resub -K 8 -l: 90
+after balance -l: 90
+after resub -K 8 -N 2 -l: 90
+after rewrite -l: 90
+after resub -K 10 -l: 90
+after rewrite -z -l: 90
+after resub -K 10 -N 2 -l: 90
+after balance -l: 90
+after resub -K 12 -l: 90
+after refactor -z -l: 90
+after resub -K 12 -N 2 -l: 90
+after balance -l: 90
+after rewrite -z -l: 90
+after balance -l: 90
+after dc2: 90
+after write_aiger -s knor.eyV7hj: 90
+size of AIG after compression: 90 gates.
+[1;37mfinished compression in 0.040038 sec.[m
+final size of AIG: 90 gates.
+[1;37mtotal time was 0.045696 sec.[m

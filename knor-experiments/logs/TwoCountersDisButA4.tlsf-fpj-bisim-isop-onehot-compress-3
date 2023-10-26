@@ -1,0 +1,24 @@
+[1;37mfinished parsing automaton in 0.118404 sec.[m
+automaton has 67 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.121783 sec.[m
+constructed game has 589 vertices and 10859 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using fixpoint iteration with justifications
+solved with 6 iterations.
+preprocessing took 0.000045 sec.
+solving took 0.000056 sec.
+[1;37mfinished solving game in 0.000179 sec.[m
+[1;37mtotal time was 0.240946 sec.[m

@@ -1,0 +1,46 @@
+[1;37mfinished parsing automaton in 0.000132 sec.[m
+automaton has 2 states.
+priorities are on states
+[1;37mfinished constructing game in 0.000815 sec.[m
+constructed game has 8 vertices and 13 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 2 major iterations, 2 minor iterations.
+preprocessing took 0.000045 sec.
+solving took 0.000136 sec.
+[1;37mfinished solving game in 0.000278 sec.[m
+after reachability: 1 states.
+[1;37mfinished post processing in 0.000087 sec.[m
+after bisimulation minimisation: 1 blocks.
+[1;37mfinished bisimulation minimisation in 0.000085 sec.[m
+[1;37mfinished encoding in 0.000297 sec.[m
+size of AIG before compression: 5 gates.
+after read_aiger knor.IXc1Gj: 5
+after balance -l: 5
+after resub -K 6 -l: 5
+after rewrite -l: 5
+after resub -K 6 -N 2: 5
+after refactor -l: 5
+after resub -K 8 -l: 5
+after balance -l: 5
+after resub -K 8 -N 2 -l: 5
+after rewrite -l: 5
+after resub -K 10 -l: 5
+after rewrite -z -l: 5
+after resub -K 10 -N 2 -l: 5
+after balance -l: 5
+after resub -K 12 -l: 5
+after refactor -z -l: 5
+after resub -K 12 -N 2 -l: 5
+after balance -l: 5
+after rewrite -z -l: 5
+after balance -l: 5
+after dc2: 5
+after write_aiger -s knor.Zj4bGy: 5
+size of AIG after compression: 5 gates.
+[1;37mfinished compression in 0.023363 sec.[m
+final size of AIG: 5 gates.
+[1;37mtotal time was 0.026850 sec.[m

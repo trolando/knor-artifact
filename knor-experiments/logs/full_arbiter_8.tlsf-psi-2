@@ -1,0 +1,37 @@
+[1;37mfinished parsing automaton in 0.807683 sec.[m
+automaton has 5642 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 1.883631 sec.[m
+constructed game has 177690 vertices and 1217102 edges.
+parity game renumbered (3 priorities)
+no self-loops removed.
+no trivial cycles removed.
+solving using parallel strategy improvement
+running sequentially
+solved with 5 major iterations, 15 minor iterations.
+preprocessing took 0.004073 sec.
+solving took 0.063817 sec.
+[1;37mfinished solving game in 0.078978 sec.[m
+after reachability: 1540 states.
+[1;37mfinished post processing in 0.074498 sec.[m
+[1;37mfinished encoding in 0.037769 sec.[m
+final size of AIG: 90164 gates.
+[1;37mtotal time was 3.703787 sec.[m

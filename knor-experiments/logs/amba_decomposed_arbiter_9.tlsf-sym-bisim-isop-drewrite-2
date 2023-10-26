@@ -1,0 +1,63 @@
+[1;37mfinished parsing automaton in 0.040645 sec.[m
+automaton has 149 states.
+priorities are on transitions
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+starting garbage collection...
+garbage collection finished.
+[1;37mfinished constructing game in 0.150114 sec.[m
+[1;37mfinished solving game in 0.259755 sec.[m
+after reachability: 147 states.
+[1;37mfinished post processing in 0.019845 sec.[m
+starting garbage collection...
+garbage collection finished.
+after bisimulation minimisation: 91 blocks.
+[1;37mfinished bisimulation minimisation in 0.013540 sec.[m
+isop has 6 terms and 27 nodes.
+isop has 8 terms and 29 nodes.
+isop has 8 terms and 36 nodes.
+isop has 8 terms and 32 nodes.
+isop has 10 terms and 38 nodes.
+isop has 9 terms and 37 nodes.
+isop has 8 terms and 37 nodes.
+isop has 15 terms and 67 nodes.
+isop has 15 terms and 67 nodes.
+isop has 75 terms and 163 nodes.
+isop has 59 terms and 145 nodes.
+isop has 208 terms and 692 nodes.
+isop has 366 terms and 1034 nodes.
+isop has 376 terms and 1096 nodes.
+isop has 472 terms and 1276 nodes.
+isop has 328 terms and 883 nodes.
+isop has 394 terms and 1055 nodes.
+isop has 505 terms and 1398 nodes.
+[1;37mfinished encoding in 0.021759 sec.[m
+size of AIG before drw+drf: 8343 gates.
+after read_aiger knor.VOj7eZ: 8343
+after drw: 6718
+after balance: 6509
+after drf: 6485
+after dc2: 6179
+after drw: 6136
+after balance: 6135
+after drf: 6130
+after dc2: 6045
+after drw: 6031
+after balance: 6031
+after drf: 6029
+after dc2: 5991
+after write_aiger -s knor.ICdibv: 5991
+size of AIG after drw+drf: 5991 gates.
+[1;37mfinished drw+drf in 0.548239 sec.[m
+final size of AIG: 5991 gates.
+[1;37mtotal time was 1.054573 sec.[m
