@@ -19,25 +19,25 @@ First install all packages in the `packages` folder using the command `sudo dpkg
 
 Then install Lace:
 - `cd lace`
-- `cmake -B build`
+- `cmake -B build -DCMAKE_BUILD_TYPE=Release`
 - `cmake --build build -j`
 - `sudo cmake --install build`
 
 Then install Sylvan:
 - `cd sylvan`
-- `cmake -B build`
+- `cmake -B build -DCMAKE_BUILD_TYPE=Release`
 - `cmake --build build -j`
 - `sudo cmake --install build`
 
 Then install Oink:
 - `cd oink`
-- `cmake -B build`
+- `cmake -B build -DCMAKE_BUILD_TYPE=Release`
 - `cmake --build build -j`
 - `sudo cmake --install build`
 
 Then build Knor:
 - `cd knor`
-- `cmake -B build`
+- `cmake -B build -DCMAKE_BUILD_TYPE=Release`
 - `cmake --build build -j`
 
 This last step can take some time as ABC is compiled as well.
